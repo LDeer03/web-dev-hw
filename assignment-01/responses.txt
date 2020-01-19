@@ -1,0 +1,2 @@
+The internet is a global system or network that the web exists in. You need the internet to access the web.
+The internet moves packets of information along a network through routers.
