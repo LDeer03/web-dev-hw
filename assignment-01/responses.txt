@@ -1,4 +1,4 @@
-The internet is a global system or network that the web exists in. You need the internet to access the web.
+The internet is a global system or network that the web exists in. You need the internet to access the web. The internet connects participants, the web connects information.
 The internet moves packets of information along a network through routers.
-A directory is a way to organize your files in web development. The directory houses a file.
-VCS, or version control system, is imperative to all web developers but especially beginners. It helps organize changes and documents.
+A directory/folder are essentially the same concept. It is a way to organize your files of information in web development. The directory is a nesting system of files that creates a step on a path and can be referred to with familial names. 
+VCS, or version control system, is a type of database that lets you save a snapshot of your project. It helps organize and track changes even with multiple users.
