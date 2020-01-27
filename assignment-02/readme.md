@@ -1,12 +1,13 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# Assignment 1
+## Lisa Deer
 
-I am typing a paragraph to ensure that I have enabled my soft toggle feature. Which apparently I have because it looks to be correct in my preview window.
+The main reason I am taking this course is because it is a requirement to graduate. That being said, I do recognize the importance of having some basic knowledge of the internet and its protocols. The internet and web design is an imperative part of our society and it is very logical to have a basic understanding of how it works and how to navigate it.
 
-Now, I have started a second paragraph.
+Three things I have started to learn and I hope to master:
+1. Basic web navigation.
+2. How to make simple web edits.
+3. How to write basic code.
 
-Followed by a third.
 
 [Course Website](https://intro-web-dev.media-ed-online.com/)
 
