@@ -8,5 +8,3 @@ Markdown files encourage the writer to focus on content and structure. HTML is t
 
 15.	An embedded image of your screenshot using its relative URL.
 ![My Screenshot](/assignment_03/images/screenshot_a3.png)
-
-https://github.com/LDeer03/web-dev-hw/blob/master/assignment_03/images/screenshot_a3.png
