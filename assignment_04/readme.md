@@ -7,3 +7,4 @@ I looked at my old business, On Center Performing Arts (OCPA). www.oncenter.biz 
 I am actually enjoying the GIT process. Adding the poem and more personal interest made it more fun. There are still a few things confusing me. For instance, why do I keep getting a “>”on the page. Maybe because I’m working on a PC? Not sure. Also, I am seeing that a Mac is definitely easier to use. Your videos are much simpler than what I must do. Especially a screen shot. I may be investing soon in my first Mac.
 
 15.	An embedded image of your screenshot using its relative URL.
+![My Screenshot](/images/screenshot.png)
