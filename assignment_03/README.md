@@ -7,5 +7,6 @@ First the user interface represents the page/panel. Then the rendering engine be
 Markdown files encourage the writer to focus on content and structure. HTML is the most common and uses a markup language. It is used to define, process, and present text. It is the written code for formatting.
 
 15.	An embedded image of your screenshot using its relative URL.
+![My Screenshot](/assignment_03/images/screenshot_a3.png)
 
 https://github.com/LDeer03/web-dev-hw/blob/master/assignment_03/images/screenshot_a3.png
