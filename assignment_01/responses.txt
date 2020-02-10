@@ -1,4 +1,13 @@
-The internet is a global system or network that the web exists in. You need the internet to access the web. The internet connects participants, the web connects information.
-The internet moves packets of information along a network through routers.
-A directory/folder are essentially the same concept. It is a way to organize your files of information in web development. The directory is a nesting system of files that creates a step on a path and can be referred to with familial names. 
-VCS, or version control system, is a type of database that lets you save a snapshot of your project. It helps organize and track changes even with multiple users.
+My Responses:
+6.	Briefly describe one way how data travels on the internet.
+
+    One-way data travels on the internet is by using light waves through fiber optic cables. The cables are running everywhere on the planet and multiple waves can be sent simultaneously in one cable.
+
+7.	What is the relationship between an IP address and the DNS?
+    IP or internet protocol acts as a 32 bit address. First is the equivalent to the country, then the region, followed by the sub region, and finally the device. DNS, or domain naming system, is the way we find IP addresses. For instance, a domain name is whatever you’re looking for with .org, .net, .com etc with it. Like facebook.com. But, the IP address is a group of numbers that are much harder to remember, for facebook it is  69.63. 176.13. 69.63. The DNS helps users find the correct IP addresses.
+
+8.	What is a cookie?
+    A cookie is an ID or a way for the site to remember who you are.
+
+9.	List the three basic parts of a URL.
+    Protocol, Domain Name, Path
