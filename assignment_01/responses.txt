@@ -1,13 +1,12 @@
 My Responses:
-6.	Briefly describe one way how data travels on the internet.
+How is the web different than the internet?
+The Web is the information found on the Internet. You need the global network of Internet networks to access the information which is the Web. Another way to look at this difference is; the Internet is infrastructure while the Web is service on top of that infrastructure.
 
-    One-way data travels on the internet is by using light waves through fiber optic cables. The cables are running everywhere on the planet and multiple waves can be sent simultaneously in one cable.
+Briefly describe how the internet works.
+It distributes packets of information along a network of routers. It does this through a wire buried in the ground. Client, to Server/ISP, Router, Server/ISP, to Client.
 
-7.	What is the relationship between an IP address and the DNS?
-    IP or internet protocol acts as a 32 bit address. First is the equivalent to the country, then the region, followed by the sub region, and finally the device. DNS, or domain naming system, is the way we find IP addresses. For instance, a domain name is whatever you’re looking for with .org, .net, .com etc with it. Like facebook.com. But, the IP address is a group of numbers that are much harder to remember, for facebook it is  69.63. 176.13. 69.63. The DNS helps users find the correct IP addresses.
+What is a directory, and what is its relationship to files?
+Directories are a file management system. Directories are done in a hierarchical naming format. Folders and Directories are essentially the same thing and files nest within.
 
-8.	What is a cookie?
-    A cookie is an ID or a way for the site to remember who you are.
-
-9.	List the three basic parts of a URL.
-    Protocol, Domain Name, Path
+Why is using a VCS beneficial?
+A version control system, or VCS, is very beneficial when it comes to viewing the history, collaborating with coworkers, and knowing when what was done to what. 
