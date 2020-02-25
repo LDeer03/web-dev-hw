@@ -4,7 +4,7 @@
 13.	Describe any forms you've come across while browsing the web. What purposes do the serve?
 
     A form is a combination of action, method, and identification
-    Search box-text entry (usernames, real names, phone numbers, e-mails, etc)
+    Search box-text entry (usernames, real names, phone numbers, e-mails, etc.)
     User Login-
     Drop down boxes (multiple choices)
     radio checkmarks/buttons (select all-that-apply)
@@ -22,4 +22,4 @@
 
 15.	Free Response: Summarize your work cycle for this assignment.
 
-      This week I started my assignment folder first. Then I went to the website and went through the readings and exercises. For the first time I typed my answers directly into the readme file instead of onto a word document and then copy and pasting.
+      This week I started my assignment folder first. I apparently did something different because although it looks the same to me, it is at the top of the folders and has a capital A in GitHub. Hopefully you can assist me with fixing that. Then I went to the website and went through the readings and exercises. For the first time I typed my answers directly into the readme file instead of onto a word document and then copy and pasting. It felt more productive to do it this way. I followed up with the work through video and clean up of my page.
