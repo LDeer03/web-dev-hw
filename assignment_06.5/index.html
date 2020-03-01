@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+    <meta name="description" content="assignment 06"
+    <meta name="author" content="Lisa Deer"
+    <title>Assignment 06</title>
+  </head>
+  <body>
+    <h1>Revana Family Vineyards</h1>
+    <h2><strong>Wine is one of nature's most welcome and wholesome of gifts.</strong></h2>
+
+    <p><address>
+      Revana Family Vineyards<br />
+      2930 St. Helena Hwy<br />
+      St. Helena, CA. 94574<br />
+      707-967-8814
+    </address></p>
+    <a href="https://www.revanawine.com">Schedule a visit</a>
+
+    <br><br>
+
+    <style> table, td {border: 1px solid black}
+    </style>
+    <table>
+        <tr>
+          <th>Visit Revana</th>
+        </tr>
+        <tr>
+          <td>Area</td>
+          <td>Hours</td>
+        </tr>
+        <tr>
+          <td>Tasting Room</td>
+          <td>10am-4pm</td>
+        </tr>
+        <tr>
+          <td>Vineyard</td>
+          <td>By appointment</td>
+        </tr>
+      </table>
+      <br><br>
+
+    <h2><strong>About You:</strong></h2>
+      <form action="https//revanawine.com/registration" method="post">
+        First Name:
+        <input type="text" name="firstname" maxlength="8">
+        <br>
+        Last Name:
+        <input type="text" name="lastname" maxlength="10">
+        <br>
+        Email:
+        <input type="text" name="email" maxlength="25">
+        <br><br>
+
+        <p>Varietal Preference:</p>
+          <input type="radio" name="level" value="nondeg" /> Red
+              <br />
+          <input type="radio" name="level" value="undergrad" /> White
+              <br />
+          <input type="radio" name="level" value="grad" checked /> Either
+              <br />
+          <br><br>
+
+        Enter you comments below:
+        <br>
+        <textarea cols="35" rows="15">Give us your feedback.</textarea>
+
+        <br>
+        <input type="button" value="submit">
+      </form>
+
+<!--Empty cells are not forgotten cells - they still need to be created using <th> or <td> elements. Not including these elements will cause your table to improperly render.-->
+
+
+
+  </body>
+</html>
