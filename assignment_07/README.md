@@ -13,6 +13,6 @@
 
 15. Free Response: Summarize your work cycle for this assignment.
 
-      Similarly to past weeks, I went to moodle to see the assignment. I started my folder, complete with the index and readme files. Then I started the website learning, filling in my readme answers as I learned them. I also updated atom as I learned an element. After completing the website tutorials and readings, I watched the a07 walkthrough video.
+      Similarly to past weeks, I went to moodle to see the assignment. I started my folder, complete with the standard code in the index and the questions in the readme files. Then I started the website learning, filling in my readme answers as I learned them. I also updated atom as I learned an element. After completing the website tutorials and readings, I watched the a07 walkthrough video.
 
       I could not get the poster to show up on my Media arts logo video. I rewrote and rechecked the code several times and it still didn't work.
