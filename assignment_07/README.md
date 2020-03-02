@@ -13,4 +13,4 @@
 
 15. Free Response: Summarize your work cycle for this assignment.
 
-      Similarly to past weeks, I went to moodle to see the assignment. I started my folder, complete with the index and readme files. Then I started the website learning, filling in my readme answers as I learned them. I also updated atom as I learned an element. After completing the website tutorials and readings, I watched the a07 walkthrough video.
+      Similarly to past weeks, I went to moodle to see the assignment. I started my folder, complete with the index and readme files. Then I started the website learning, filling in my readme answers as I learned them. I also updated atom as I learned an element. After completing the website tutorials and readings, I watched the a07 walkthrough video. I could not find a streaming service that had an iframe link for 1999, only http: links that did not seen to work with the audio source.
