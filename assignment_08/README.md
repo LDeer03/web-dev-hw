@@ -9,7 +9,7 @@ HTML is both exciting and frustrating. Everything was new! I came into this clas
 
 14. Next module we begin CSS and expand on styling, which helps us "decorate" HTML. Is there anything you're anxious or excited to learn about in this new section?
 
-I would say that any anxiety I may have comes from adding more detail to the basics that I barley have a grasp on. I understand that it will get more rewarding to see something artistic, but the details are intimidating.
+I would say that any anxiety I may have comes from adding more detail to the basics that I barley have a grasp on. I understand that it will get more rewarding to see something artistic, but the details are intimidating. I am not sure why sometimes things work and sometimes they don't.
 
 
 15. Free Response: Summarize your work cycle for this assignment.
