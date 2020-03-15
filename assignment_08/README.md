@@ -14,4 +14,10 @@ I would say that any anxiety I may have comes from adding more detail to the bas
 
 15. Free Response: Summarize your work cycle for this assignment.
 
-This week, I went to moodle to see the assignment. Per usual, I started my folder, complete with the standard code in the 3 HTML files. Then I copied the questions in the readme file. After completing the website tutorials and readings, I started to piece together the past weeks into this complete assignment. Then I watched the a08 walkthrough video.
+This week, I went to moodle to see the assignment. Per usual, I started my folder, complete with the standard code in the 3 HTML files. Then I copied the questions in the readme file. After completing the website tutorials and readings, I started to piece together the past weeks into this complete assignment. Then I watched the a08 walkthrough video. After that viewing I tweaked my assignment and added the "buttons."
+
+I have discovered the I have not had my title show up correctly since assignment 04. If I do it like I did that week and all of our instruction shows it appears on my page and not in the tab. <title>...</title>
+
+If I do it like atom wants me to, it doesn't show on the tab but it also doesn't show on the page. <title="..."</title>
+
+I have gone over and rewritten the code multiple times. Hopefully you can help.
