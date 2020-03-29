@@ -1,6 +1,13 @@
 body {
-  background-color: orange
+  background-color: #FFBB37
   /*I want to add pacfont to my page*/
+  /*needed my color codes.
+  orange #FFBB37/ 255, 187, 55
+  pink  #FF377B/ 255,55,123
+  purple #853AFC/ 133, 58, 252
+  green #37FF57/ 55, 255, 87
+  yellow #DFFF37/ 223, 255, 55
+  blue #3AB1FC/58, 177, 252*/
 }
 
 h1 {
@@ -24,19 +31,19 @@ h2 {
 }
 
 .square{
-  
+
 }
 
 #purple {
-  background-color: #800080;
+  background-color: #853AFC;
 }
 
 #green {
-  background-color: #7DE522;
+  background-color: #37FF57;
 }
 
 #yellow {
-  background-color: #FBE608;
+  background-color: #DFFF37;
 }
 
 #blue {
