@@ -9,6 +9,7 @@ h1 {
 .square1{
   width: 100%;
   height: 100px;
+  align-content: center;
 }
 
 #pink {
@@ -16,16 +17,17 @@ h1 {
 }
 
 h2 {
-  color: red
+  color: black
 }
 
 .square{
   width: 50%;
   height: 200px;
+  align-self: center;
 }
 
 #purple {
-  background-color: #purple;
+  background-color: #800080;
 }
 
 #green {
