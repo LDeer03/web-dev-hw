@@ -11,7 +11,7 @@ h1 {
 
 .square1{
   width: 100%;
-  height: 100px;
+  height: 200px;
   text-align: center;
 }
 
@@ -21,13 +21,10 @@ h1 {
 
 h2 {
   color: black
-  text-align:center;
 }
 
 .square{
   width: 100%;
-  height: 500px;
-  content-align: center;
 }
 
 #purple {
