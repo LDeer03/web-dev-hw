@@ -12,6 +12,7 @@ h1 {
 .square1{
   width: 100%;
   height: 100px;
+  text-align: center;
 }
 
 #pink {
@@ -26,6 +27,7 @@ h2 {
 .square{
   width: 100%;
   height: 500px;
+  content-align: center;
 }
 
 #purple {
