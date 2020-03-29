@@ -23,21 +23,24 @@ h2 {
 .square{
   width: 50%;
   height: 200px;
-  align-self: center;
 }
 
 #purple {
   background-color: #800080;
+  align-self: center;
 }
 
 #green {
   background-color: #7DE522;
+  align-self: center;
 }
 
 #yellow {
   background-color: #FBE608;
+  align-self: center;
 }
 
 #blue {
   background-color: #3AB1FC;
+  align-self: center;
 }
