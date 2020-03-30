@@ -11,10 +11,11 @@ body {
 }
 
 h1 {
-  color: black
+  color: #853AFC;
   text-align: center;
   padding:inherit;
   font-size: 60px
+  font-family: Berlin
 }
 
 .square1{
