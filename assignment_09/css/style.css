@@ -11,6 +11,14 @@ body {
   blue #3AB1FC/58, 177, 252*/
 }
 
+.decoration{
+  width: 30%;
+  height: 100px
+  opacity: .05;
+  color: #853AFC
+  position: right;
+}
+
 h1 {
   color: #853AFC;
   text-align: center;
@@ -47,12 +55,7 @@ h2 {
 .square4{
   width: 45%;
 }
-.decoration{
-  width: 30%;
-  opacity: .05;
-  color: inherit;
-  position: absolute;
-}
+
 
 #purple {
   background-color: #853AFC;
