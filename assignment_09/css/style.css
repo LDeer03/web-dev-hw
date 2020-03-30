@@ -21,6 +21,11 @@ body {
   height: 100px;
 }
 
+p {
+  color: #853AFC;
+  font-family: Impact;
+}
+
 h1 {
   color: #853AFC;
   text-align: center;
