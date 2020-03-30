@@ -13,12 +13,12 @@ body {
 
 .triangle{
   background-color: rgba(133, 58, 252, .05)
-  position:relative;
-  left: 100px;
-  right: 700px;
-  top: 220px;
   width: 40%;
-  height: 100px;
+  height: 200px;
+  position: absolute;
+  right: 100px;
+  top: 220px;
+
 }
 
 p {
