@@ -12,11 +12,13 @@ body {
 }
 
 .decoration{
-  width: 30%;
+  background-color: rgba(133, 58, 252, .05)
+  position: absolute;
+  left: 100px
+  top: 220px
+  width: 40%;
   height: 100px
-  opacity: .05;
-  color: #853AFC
-  position: right;
+  font-size: 60px
 }
 
 h1 {
