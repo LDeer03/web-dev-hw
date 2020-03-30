@@ -33,13 +33,12 @@ h2 {
   color: #FF377B;
   font-size: 40px
   Font-family: Impact;
-  position: absolute;
 
 }
 
 .square{
   width: 50%;
-  padding:inherit;
+  padding: inherit;
 }
 
   .square2{
