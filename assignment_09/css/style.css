@@ -15,7 +15,8 @@ h1 {
   text-align: center;
   padding:inherit;
   font-size: 60px
-  font-family: Berlin
+  font-family: Impact;
+  position: absolute;
 }
 
 .square1{
@@ -31,6 +32,8 @@ h1 {
 h2 {
   color: #FF377B;
   font-size: 40px
+  Font-family: Impact;
+  position: absolute;
 
 }
 
