@@ -38,11 +38,13 @@ h2 {
 }
 
 .square{
-  width: 50%
+  width: 50%;
+  padding:inherit;
 }
 
   .square2{
     width: 100%;
+    padding: inherit;
     opacity: 0.5;
   }
 
