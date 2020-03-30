@@ -47,9 +47,11 @@ h2 {
 .square4{
   width: 45%;
 }
-.square5{
-  width: 100%;
+.decoration{
+  width: 30%;
   opacity: .05;
+  color: inherit;
+  position: absolute;
 }
 
 #purple {
