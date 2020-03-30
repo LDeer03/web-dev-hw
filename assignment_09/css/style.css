@@ -16,7 +16,7 @@ h1 {
   padding:inherit;
   font-size: 60px
   font-family: Impact;
-  position: absolute;
+  position:relative;
 }
 
 .square1{
