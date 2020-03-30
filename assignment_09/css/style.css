@@ -37,15 +37,27 @@ h2 {
 }
 
 .square{
-  width: 50%;
-  padding: inherit;
+  width: 25%;
 }
-
   .square2{
     width: 100%;
-    padding: inherit;
-    opacity: 0.5;
-  }
+}
+
+
+.square3{
+  width: 75%;
+}
+
+
+.square4{
+  width: 25%;
+}
+
+
+.square5{
+  width: 100%;
+  opacity: .05;
+}
 
 #purple {
   background-color: #853AFC;
