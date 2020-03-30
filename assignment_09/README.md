@@ -13,16 +13,30 @@ An id identifies a style rule for a specific element, similar to a class. Ids ar
 
 
 
+
+
 14. Briefly discuss your color palette, including the 3 colors you chose. List their color names, rgb values, or hex codes.
 
 I choose the 80's so bright colorful, neon hues. I was fortunate that you also chose this color palette in the tutorial video, so I had a little confidence in the pink code. Then I used the color picker and chose colors that complimented the pink.
 
 orange #FFBB37/ 255, 187, 55
+
+
 pink  #FF377B/ 255,55,123
+
+
 purple #853AFC/ 133, 58, 252
+
+
 green #37FF57/ 55, 255, 87
+
+
 yellow #DFFF37/ 223, 255, 55
+
+
 blue #3AB1FC/58, 177, 252
+
+
 
 
 
@@ -32,4 +46,4 @@ I followed a different approach this week, and I am not sure I will do it again.
 
 Typically I watch your video last and there are always things I decide to tweak or add after watching it. So, this week I watched it first. Because of this, I was less efficient in building my page.
 
-I had your example built and launched before I read the assignment or looked at the learning material. Then I felt behind and ahead at the same time. I don't feel like I grasped the differences in style, in the learning you start in HTML and move to CSS. I didn't figure that out at first and started to get confused. I feel I have figured it out now, but it took longer than my regular process. 
+I had your example built and launched before I read the assignment or looked at the learning material. Then I felt behind and ahead at the same time. I don't feel like I grasped the differences in style, in the learning you start in HTML and move to CSS. I didn't figure that out at first and started to get confused. I feel I have figured it out now, but it took longer than my regular process.
