@@ -14,17 +14,17 @@ body {
 .decoration{
   background-color: rgba(133, 58, 252, .05)
   position: absolute;
-  left: 100px
-  top: 220px
+  left: 100px;
+  right: 700px;
+  top: 220px;
   width: 40%;
-  height: 100px
-  font-size: 60px
+  height: 100px;
 }
 
 h1 {
   color: #853AFC;
   text-align: center;
-  font-size: 60px
+  font-size: 60px;
   font-family: Impact;
 }
 
