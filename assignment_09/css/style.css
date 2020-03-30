@@ -12,8 +12,8 @@ body {
 }
 
 .triangle{
-  background-color: rgb(133, 58, 252)
-
+  background-color: rgba(133, 58, 252, .05)
+  position:relative;
   left: 100px;
   right: 700px;
   top: 220px;
