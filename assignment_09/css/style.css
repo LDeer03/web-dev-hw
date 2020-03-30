@@ -12,7 +12,7 @@ body {
 }
 
 .triangle{
-  background-color: rgba(133, 58, 252, .05)
+  background-color: rgb(133, 58, 252)
   position: absolute;
   left: 100px;
   right: 700px;
@@ -52,10 +52,10 @@ h2 {
   width: 90%;
 }
 .square3{
-  width: 75%;
+  width: 72%;
 }
 .square4{
-  width: 45%;
+  width: 42%;
 }
 
 
