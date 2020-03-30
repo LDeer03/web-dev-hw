@@ -38,8 +38,13 @@ h2 {
 }
 
 .square{
-
+  width: 50%
 }
+
+  .square2{
+    width: 100%;
+    opacity: 0.5;
+  }
 
 #purple {
   background-color: #853AFC;
