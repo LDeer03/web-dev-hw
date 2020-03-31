@@ -82,7 +82,8 @@ h4 {
 .block{
   width: 50%;
   height: 200px;
-  position: left;
+  position: right;
+
 
 }
 
@@ -90,7 +91,7 @@ h4 {
   position: inherit;
   width: 700px;
   height: 200px;
-  right: auto;
+  right: 0px;
 
 }
 
