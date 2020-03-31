@@ -46,4 +46,4 @@ I followed a different approach this week, and I am not sure I will do it again.
 
 Typically I watch your video last and there are always things I decide to tweak or add after watching it. So, this week I watched it first. Because of this, I was less efficient in building my page.
 
-I had your example built and launched before I read the assignment or looked at the learning material. Then I felt behind and ahead at the same time. I don't feel like I grasped the differences in style, in the learning you start in HTML and move to CSS. I didn't figure that out at first and started to get confused. I feel I have figured it out now, but it took longer than my regular process.
+I had your example built and launched before I read the assignment or looked at the learning material. Then I felt behind and ahead at the same time. I don't feel like I grasped the differences in style, in the learning you start in HTML and move to CSS. In the beginning I didn't figure that out and started to get confused. I am still not sure if I have figured out opacity and positioning. It took me much longer than my regular process.
