@@ -17,7 +17,6 @@ p {
   color: #37FF57;
   font-family: Impact;
   font-size: 30px
-  position:absolute;
 }
 
 h1 {
@@ -75,7 +74,7 @@ h4 {
   width: 760px;
   position:relative;
   left: 0px;
-  top:700px;
+  top:400px;
 }
 
 .square3{
