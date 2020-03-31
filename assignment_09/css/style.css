@@ -22,6 +22,7 @@ body {
 p {
   color: #37FF57;
   font-family: Impact;
+  font-size: 30px
 }
 
 h1 {
@@ -33,13 +34,12 @@ h1 {
 
 .square1{
   width: 100%;
-  height: 500px;
+  height: 300px;
   text-align: center;
 }
 
 #pink {
   background-color: #FF377B;
-  opacity: .08;
 }
 
 h2 {
@@ -54,7 +54,7 @@ h3 {
   font-size: 100px;
   Font-family: Impact;
   position: fixed;
-  right: 100px;
+  right: 70px;
   top: 180px;
 
 }
