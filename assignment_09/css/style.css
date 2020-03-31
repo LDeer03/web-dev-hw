@@ -79,10 +79,16 @@ h4 {
 
 }
 
+.block{
+  width: 50%;
+  position:inherit;
+
+}
+
 .square2{
   width: 900px;
-  position:inherit;
-  right: 0px;
+  position:relative;
+  left: 0px;
 
 }
 
