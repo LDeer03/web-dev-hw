@@ -13,6 +13,7 @@ body {
 }
 
 .Triangle{
+  background-color: rgba(55,255,87, .05);
   width: 50%;
   position: fixed;
   right: 0px;
