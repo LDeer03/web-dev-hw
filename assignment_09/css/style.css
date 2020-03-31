@@ -76,18 +76,19 @@ h4 {
 }
 
 .square2{
-  width: 760px;
-
+  width: 1650px;
+  position: relative;
+  right: 0px;
 }
 
 .square3{
   width: 1330px;
   position: relative;
-  right: 0px;
+  left: 0px;
 }
 
 .square4{
-  width: 1650px;
+  width: 760px;
   position: relative;
   right: 0px;
 }
