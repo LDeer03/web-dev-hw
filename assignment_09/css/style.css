@@ -50,6 +50,7 @@ h2 {
 
 h3 {
   color: #FF377B;
+  opacity: .05;
   font-size: 100px;
   Font-family: Impact;
   position: fixed;
