@@ -1,5 +1,7 @@
 body {
-  background-color: #FFBB37
+  background-color: #FFBB37;
+  opacity: .05;
+
   /*I want to add "pacfont" font to my page*/
   /*wanted my color codes.
   orange #FFBB37/ 255, 187, 55
@@ -11,7 +13,6 @@ body {
 }
 
 .Triangle{
-  color: #853AFC
   width: 50%;
   position: fixed;
   right: 0px;
