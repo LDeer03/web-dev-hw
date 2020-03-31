@@ -87,6 +87,7 @@ h4 {
 }
 
 .block1{
+  position: relative
   width: 50%;
   height: 200px;
   right: 10px;
