@@ -62,15 +62,23 @@ h3 {
 }
 .square{
   width: 562px;
+  position:absolute;
+  left: 0px;
 }
 .square2{
   width: 562px;
+  position:absolute;
+  left: 25px;
 }
 .square3{
   width: 562px;
+  position:absolute;
+  left: 50px;
 }
 .square4{
   width: 562px;
+  position:absolute;
+  left: 75px;
 }
 
 
