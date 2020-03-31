@@ -57,28 +57,29 @@ h3 {
   Font-family: Impact;
   position: fixed;
   right: 50px;
-  top: 310px;
+  top: 315px;
 
 }
 .square{
   width: 562px;
-  position:absolute;
+  position:relative;
   left: 0px;
 }
 .square2{
   width: 562px;
-  position:absolute;
-  left: 25px;
+  position:relative;
+  left: 50px;
 }
 .square3{
   width: 562px;
-  position:absolute;
-  left: 50px;
+  position:relative;
+  left: 100px;
+
 }
 .square4{
   width: 562px;
-  position:absolute;
-  left: 75px;
+  position:relative;
+  left: 150px;
 }
 
 
