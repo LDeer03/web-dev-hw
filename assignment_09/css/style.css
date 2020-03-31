@@ -17,7 +17,6 @@ p {
   color: #37FF57;
   font-family: Impact;
   font-size: 30px
-  opacity:.1;
 }
 
 h1 {
@@ -29,9 +28,7 @@ h1 {
 
 .Triangle{
   background-color: #37FF57
-  opacity: .01;
-  width: 50%;
-  right:100px;
+  opacity:.05;
 
 }
 
