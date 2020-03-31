@@ -81,14 +81,14 @@ h4 {
 
 .block{
   width: 50%;
-  height: 300px
+  height: 200px;
   position:inherit;
 
 }
 
 .block1{
   width: 50%;
-  height: 300px
+  height: 200px;
   right: 0px;
 
 }
