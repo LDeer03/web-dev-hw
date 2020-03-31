@@ -1,6 +1,5 @@
 body {
   background-color: #FFBB37
-  font-family: Impact;
 
   /*I want to add "pacfont" font to my page*/
   /*wanted my color codes.
@@ -14,24 +13,24 @@ body {
 
 .triangle{
   background-color: rgba(133, 58, 252, .05)
-  width: 40%;
+  width: 10%;
   height: 200px;
   position: relative;
   right: 0px;
-  top: 220px;
+  top: 10px;
 
 }
 
 p {
   color: #37FF57;
-  font-family: inherit;
+  font-family: Impact;
 }
 
 h1 {
   color: #853AFC;
   text-align: center;
   font-size: 60px;
-  font-family: inherit;
+  font-family: Impact;
 }
 
 .square1{
@@ -47,7 +46,7 @@ h1 {
 h2 {
   color: #FF377B;
   font-size: 40px;
-  Font-family: inherit;
+  Font-family: Impact;
 
 }
 
