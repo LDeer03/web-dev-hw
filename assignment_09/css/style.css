@@ -14,10 +14,10 @@ body {
 
 .Triangle{
   background-color: rgba(55,255,87, .05);
+  position: relative;
   width: 50%;
-  position: fixed;
   right: 0px;
-  top: 200px;
+  top: 500px;
 
 }
 
