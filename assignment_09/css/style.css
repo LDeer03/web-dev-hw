@@ -1,6 +1,6 @@
 body {
   background-color: #FFBB37
-  opacity: 0.5; 
+  opacity: 0.5;
   /*I want to add "pacfont" font to my page*/
   /*wanted my color codes.
   orange #FFBB37/ 255, 187, 55
@@ -12,7 +12,7 @@ body {
 }
 
 .triangle{
-  color: rgba(133, 58, 252, .05)
+  color: #853AFC
   width: 15%;
   height: 100px;
   position: fixed;
