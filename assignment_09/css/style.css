@@ -26,6 +26,15 @@ h1 {
   font-family: Impact;
 }
 
+.Triangle{
+  background-color: #37FF57
+  opacity: .05;
+  width: 50%;
+  height: 500px;
+  right:100px;
+
+}
+
 .square1{
   width: 100%;
   height: 500px;
