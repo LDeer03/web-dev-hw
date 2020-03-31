@@ -82,7 +82,8 @@ h4 {
 .block{
   width: 50%;
   height: 200px;
-  position: right;
+  position: relative;
+  right: 10px;
 
 
 }
