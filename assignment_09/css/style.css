@@ -1,6 +1,5 @@
 body {
   background-color: #FFBB37
-  opacity: 0.1;
   /*I want to add "pacfont" font to my page*/
   /*wanted my color codes.
   orange #FFBB37/ 255, 187, 55
@@ -51,7 +50,7 @@ h2 {
 
 h3 {
   color: #FF377B;
-  font-size: 40px;
+  font-size: 80px;
   Font-family: Impact;
   position: fixed;
   right: 100px;
