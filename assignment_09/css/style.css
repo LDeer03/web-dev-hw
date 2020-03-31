@@ -66,14 +66,14 @@ h4 {
   Font-family: Impact;
   position: fixed;
   right: 15px;
-  top: 100px;
+  top: 200px;
 
 }
 
 
 .square1{
   width: 1650px;
-  position: relative;
+  position: absolute;
   right: 0px;
   top: auto;
 
