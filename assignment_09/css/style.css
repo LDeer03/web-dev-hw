@@ -45,21 +45,21 @@ h2 {
 
 h3 {
   color: #FF377B;
-  font-size: 96px;
+  font-size: 90px;
   Font-family: Impact;
   position: fixed;
   right: 50px;
-  top: 200px;
+  top: 150px;
 
 }
 
 h4 {
   color: #FF377B;
-  font-size: 94px;
+  font-size: 80px;
   Font-family: Impact;
   position: fixed;
-  left: 0px;
-  top: 320px;
+  left: 10px;
+  top: 300px;
 
 }
 
@@ -74,18 +74,21 @@ h4 {
   width: 760px;
   position:relative;
   left: 0px;
+  top:1000;
 }
 
 .square3{
   width: 1330px;
   position:relative;
   right: 0px;
+  padding-top: 50px
 
 }
 .square4{
   width: 1650px;
   position:relative;
   left: 0px;
+  padding-top: 50px
 }
 
 
