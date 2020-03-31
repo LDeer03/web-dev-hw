@@ -74,21 +74,21 @@ h4 {
   width: 760px;
   position:relative;
   left: 0px;
-  top:1000;
+  top:2000;
 }
 
 .square3{
   width: 1330px;
   position:relative;
   right: 0px;
-  padding-top: 50px
+  padding-top: 20px
 
 }
 .square4{
   width: 1650px;
   position:relative;
   left: 0px;
-  padding-top: 50px
+  padding-top: 20px
 }
 
 
