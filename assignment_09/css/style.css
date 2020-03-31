@@ -73,7 +73,8 @@ h4 {
 
 .square{
   width: 562px;
-
+  position: relative;
+  left: 0px;
 }
 
 .square2{
