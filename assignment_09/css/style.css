@@ -82,15 +82,15 @@ h4 {
 .block{
   width: 50%;
   height: 200px;
-  position:inherit;
+  position: inherit;
 
 }
 
 .block1{
-  position:inherit;
+  position: inherit;
   width: 700px;
   height: 200px;
-  right: 0px;
+  right: auto;
 
 }
 
