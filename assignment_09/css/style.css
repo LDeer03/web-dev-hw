@@ -65,7 +65,7 @@ h4 {
   font-size: 80px;
   Font-family: Impact;
   position: fixed;
-  right: 10px;
+  right: 15px;
   top: 0px;
 
 }
@@ -73,6 +73,7 @@ h4 {
 
 .square1{
   width: 1650px;
+  right: 0px;
 
 }
 
@@ -83,6 +84,8 @@ h4 {
 
 .square3{
   width: 1330px;
+  right: 0px;
+  padding-bottom: 10px;
 
 }
 
