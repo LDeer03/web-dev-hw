@@ -25,6 +25,7 @@ h1 {
   font-size: 60px;
   font-family: Impact;
   padding-bottom: 10px;
+  padding-top: 20px;
 }
 
 .scroll{
@@ -73,15 +74,13 @@ h4 {
 
 
 .square1{
-  width: 1650px;
+  width: 100%;
   position: relative;
-  right: 0px;
-  top: auto;
 
 }
 
 .square2{
-  width: 562px;
+  width: 600px;
   position: relative;
   right: 0px;
 
