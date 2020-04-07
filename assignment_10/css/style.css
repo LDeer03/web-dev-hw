@@ -1,0 +1,57 @@
+/*Page-Wide*/
+
+body {
+  background-color: rgb(68, 179, 54);
+  color: green;
+  padding: 5px;
+  font-family: 'Judson', serif;
+}
+
+/*Paragraph*/
+
+.text {
+  background-color: rgb(193, 232, 188);
+  color: rgb(39, 59, 36);
+  padding: 5px;
+  line-height: 2em;
+}
+#heading-1 {
+  font-family: 'quando', serif, Georgia;
+}
+
+h2{
+  font-family: quando;
+}
+
+p:first-letter:first-letter {
+  font-family: 'Quando', serif;
+  font-size: 3em;
+  font-weight: 700;
+  color: rgb(68, 179, 54)
+}
+.p1 {
+  font-family: judson;
+  font-size: 12pt;
+}
+
+
+/*links*/
+
+a {
+  background-color: rgb(193, 232, 188);
+  color: rgb(39, 59, 36);
+  padding: 5px;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+a:visited {
+  color: #FFFFFF;
+}
+
+a:active {
+  background-color: rgb(39, 59, 36);
+  color: rgb(193, 232, 188);
+}
