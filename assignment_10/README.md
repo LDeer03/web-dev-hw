@@ -24,4 +24,6 @@ They will allow your site to have content if a font is either taking to long to 
 
 15. Free Response: Summarize your work cycle for this assignment.
 
-I went back to my old format. Read assignment. Start Atom pages. Read learning pages while creating page. Watch the video. Tweak assignment.
+I went back to my old format. Read assignment. Start Atom files. Read learning material while creating my page. Watch the video. Tweak assignment. This system definitely works well for me. I feel like I grasp the concepts better.
+
+I can say that it is harder to stay motivated while being sheltered in place. I am more productive when I am busy.
