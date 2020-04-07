@@ -24,7 +24,7 @@ h2{
   font-family: quando; serif;
 }
 
-p:first-of-type:first-letter {
+p:first-letter {
   font-family: 'Quando', serif;
   font-style: italic;
   font-size: 3em;
@@ -50,6 +50,10 @@ p:first-of-type:first-letter {
 .p5 {
   font-family: judson;
   font-size: 16pt;
+}
+.p6 {
+  font-family: judson;
+  font-size: 24pt;
 }
 
 
