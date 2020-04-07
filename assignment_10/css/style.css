@@ -67,8 +67,8 @@ p:first-letter {
 /*links*/
 
 a {
-  background-color: rgb(39, 59, 36);
-  color: rgb(193, 232, 188);
+  background-color: rgb(193, 232, 188);
+  color: rgb(39, 59, 36);
   padding: 5px;
 }
 
@@ -81,6 +81,7 @@ a:visited {
 }
 
 a:active {
-  background-color: rgb(193, 232, 188);
-  color: rgb(39, 59, 36);
+  background-color: rgb(39, 59, 36);
+  color: rgb(193, 232, 188);
+
 }
