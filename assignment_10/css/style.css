@@ -37,30 +37,30 @@ p:first-letter {
   color: rgb(68, 179, 54)
 }
 .p1 {
-  font-family: judson;
+  font-family: 'Judson', serif;
   font-size: 16pt;
 }
 .p2 {
-  font-family: judson;
+  font-family: 'Judson', serif;
   font-size: 16pt;
 }
 .p3 {
-  font-family: judson;
+  font-family: 'Judson', serif;
   font-size: 16pt;
 }
 .p4 {
-  font-family: judson;
+  font-family: 'Judson', serif;
   font-size: 16pt;
 }
 .p5 {
-  font-family: judson;
+  font-family: 'Judson', serif;
   font-size: 16pt;
 }
 .p6 {
-  font-family: judson;
-  color: rgb(68, 179, 54)
-  font-size: 2em;
+  font-family: 'Quando', serif;
+  font-size: 24pt;
   text-align: center;
+  color: rgb(68, 179, 54)
 }
 
 
