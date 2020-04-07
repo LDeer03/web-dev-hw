@@ -23,7 +23,7 @@ h2{
   font-family: quando; serif;
 }
 
-p:first-of-type;first-letter {
+p:first-of-type:first-letter {
   font-family: 'Quando', serif;
   font-style: italic;
   font-size: 3em;
@@ -31,6 +31,22 @@ p:first-of-type;first-letter {
   color: rgb(68, 179, 54)
 }
 .p1 {
+  font-family: judson;
+  font-size: 16pt;
+}
+.p2 {
+  font-family: judson;
+  font-size: 16pt;
+}
+.p3 {
+  font-family: judson;
+  font-size: 16pt;
+}
+.p4 {
+  font-family: judson;
+  font-size: 16pt;
+}
+.p5 {
   font-family: judson;
   font-size: 16pt;
 }
@@ -49,7 +65,7 @@ a:hover {
 }
 
 a:visited {
-  color: #FFFFFF;
+  color: rgb(39, 59, 36);
 }
 
 a:active {
