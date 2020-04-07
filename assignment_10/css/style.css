@@ -27,8 +27,8 @@ h2{
 p:first-letter {
   font-family: 'Quando', serif;
   font-style: italic;
-  font-size: 3em;
-  font-weight: 700;
+  font-size: 2em;
+  font-weight: 500;
   color: rgb(68, 179, 54)
 }
 .p1 {
