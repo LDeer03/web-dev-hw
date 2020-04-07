@@ -17,7 +17,7 @@ body {
 }
 #heading-1 {
   font-family: 'quando', serif;
-  color: black
+  color: rgb(39, 59, 36);
 }
 
 h2{
@@ -66,7 +66,7 @@ a:hover {
 }
 
 a:visited {
-  color: rgb(39, 59, 36);
+  color: rgb(245, 7, 27);
 }
 
 a:active {
