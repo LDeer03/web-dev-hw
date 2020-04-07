@@ -23,23 +23,24 @@ h2{
   font-family: quando; serif;
 }
 
-p:first-letter {
+p:first-of-type;first-letter {
   font-family: 'Quando', serif;
+  font-style: italic;
   font-size: 3em;
   font-weight: 700;
   color: rgb(68, 179, 54)
 }
 .p1 {
   font-family: judson;
-  font-size: 12pt;
+  font-size: 16pt;
 }
 
 
 /*links*/
 
 a {
-  background-color: rgb(193, 232, 188);
-  color: rgb(39, 59, 36);
+  background-color: rgb(39, 59, 36);
+  color: rgb(193, 232, 188);
   padding: 5px;
 }
 
@@ -52,6 +53,6 @@ a:visited {
 }
 
 a:active {
-  background-color: rgb(39, 59, 36);
-  color: rgb(193, 232, 188);
+  background-color: rgb(193, 232, 188);
+  color: rgb(39, 59, 36);
 }
