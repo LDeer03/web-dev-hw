@@ -18,10 +18,15 @@ body {
 #heading-1 {
   font-family: 'quando', serif;
   color: rgb(39, 59, 36);
+  text-align: center;
 }
 
 h2{
   font-family: quando; serif;
+  text-align: center;
+  letter-spacing: .01em
+  line-height: 0.75em
+
 }
 
 p:first-letter {
@@ -54,6 +59,7 @@ p:first-letter {
 .p6 {
   font-family: judson;
   font-size: 24pt;
+  text-align: center;
 }
 
 
