@@ -108,8 +108,8 @@ body {
 .main {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
-  position:;
-  top: 90%;
+  position:relative;
+  top: 700px;
   width: 100%;
   padding:20px;
   text-align: left;
