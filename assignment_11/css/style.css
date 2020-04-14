@@ -82,44 +82,23 @@ body {
   float:left;
 }
 
-.adult img {
-  align-items: center;
-}
 
-  .adult {
-    background-color: rgb(68, 152, 184);/*teal*/
-    width:300px;
-    height: 300px;
-    position: relative;
-    top:350px;
-    padding-left: 50px;
+
+  #adult {
+    align-items: center;
 
   }
 
-  .kid img {
+
+
+  #kid {
     align-items: center;
   }
 
-  .kid {
-    background-color: rgb(68, 152, 184);/*teal*/
-    width:300px;
-    height: 300px;
-    position: relative;
-    top:350px;
-    padding-left: 50%;
-  }
 
-  .family img {
+
+  #family {
     align-items: center;
-  }
-
-  .family {
-    background-color: rgb(68, 152, 184);/*teal*/
-    width:300px;
-    height: 300px;
-    position: realative;
-    top:350px;
-    padding-right: 50px;
   }
 
 /*Paragraph*/
