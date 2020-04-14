@@ -26,6 +26,10 @@ body {
   position: fixed;
   top: 0px;
   left: 0px;
+  font-family: 'Alegreya', serif;
+  text-align: left;
+  letter-spacing: .01em
+  line-height: 0.75em
 }
 
 .site img {
@@ -34,6 +38,7 @@ body {
   top: 0px;
   left:0px;
   border: solid;
+  color: black;
 }
 /*social*/
 
