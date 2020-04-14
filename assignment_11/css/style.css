@@ -29,6 +29,7 @@ body {
 
 .site img {
   z-index: 3;
+  position: relative;
   top: 0px;
   left:50px;
   border: solid;
@@ -102,6 +103,7 @@ body {
 .main {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
+  position: relative;
   top: 75%;
   width: 100%;
   padding:20px;
