@@ -46,25 +46,25 @@ body {
   border-color: black;
 }
 .search {
-  border-radius: 2;
+  border-radius: 100%;
   top:150px;
-  right: 65px;
+  right: 70%;
 }
 .FB {
-  border-radius: 2;
+  border-radius: 100%;
   top:150px;
-  right:45px;
+  right:80%;
 }
 .IG {
-  border-radius: 2;
+  border-radius: 100%;
   top:150px;
-  right:25px;
+  left:90%;
 }
 
 .YT {
-  border-radius: 2;
+  border-radius: 100%;
   top:150px;
-  right:5px;
+  left:100%;
 }
 
   a:hover {
