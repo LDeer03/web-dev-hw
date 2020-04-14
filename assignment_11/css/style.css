@@ -108,7 +108,7 @@ body {
 .main {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
-  position:relative;
+  position:;
   top: 75%;
   width: 100%;
   padding:20px;
