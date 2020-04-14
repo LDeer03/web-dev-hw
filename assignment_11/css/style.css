@@ -38,7 +38,7 @@ body {
 
 
 .social img {
-  z-index: 5;
+  z-index: 10;
   margin: 1em 1em 1em 1em;
   top: auto;
   border: none;
@@ -85,7 +85,9 @@ body {
   float:left;
 
 }
-
+.activities h3:hover {
+  font-style: italic;
+}
 
   #adult {
 
