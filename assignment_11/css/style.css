@@ -34,7 +34,7 @@ body {
 
 .site img {
   z-index: 3;
-  position: relative;
+  position: absolute;
   top: 0px;
   left:0px;
   border: solid;
@@ -66,6 +66,7 @@ body {
 
 .navigation a {
   display:inline-block;
+  color: inherit;
   margin: 2em;
   text-decoration:none;
 }
