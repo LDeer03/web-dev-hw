@@ -36,7 +36,7 @@ body {
 }
 
 .site img:hover {
-  border: dashed;
+  color: rgb(100, 68, 184);/*purple*/
 }
 /*social*/
 
@@ -44,7 +44,6 @@ body {
 .social img {
   z-index: 10;
   margin: 1em 1em 1em 1em;
-  top: 200px;
   border: none;
   float: right;
 }
