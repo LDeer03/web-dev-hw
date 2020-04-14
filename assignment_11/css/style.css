@@ -46,31 +46,30 @@ body {
   left: 0px;
   border-color: black;
 }
-.search {
-  border-radius: 100%;
-  top:150px;
-  right: 70%;
+.navigation a{
+  display: block;
+  margin: 2em;
 }
-.FB {
-  border-radius: 100%;
-  top:150px;
-  right:80%;
+.navigation a:hover {
+  font-style: italic;
 }
-.IG {
-  border-radius: 100%;
-  top:150px;
-  left:90%;
+/*social*/
+
+.social {
+  background-color: inherit;
+  width:inherit;
+  bottom: 0;
+}
+.social img {
+  width: 25%;
+  height:auto;
+
+  float: right;
 }
 
-.YT {
-  border-radius: 100%;
-  top:150px;
-  left:100%;
+.social img:hover{
+  margin-top: 2.5em;
 }
-
-  a:hover {
-    font-style: italic;
-  }
 
 
 /*Activities*/
