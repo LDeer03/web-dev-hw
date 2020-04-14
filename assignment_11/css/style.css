@@ -16,22 +16,23 @@ body {
   line-height: 2em;
 }
 
-{
-  border-color:black;
-}
-
 /*Fixed Bar*/
 .site {
-  background-color: rgb(68, 152, 184);/*teal*/
-  color: black;
-  font-size: 1.25em;
-  padding: 5px;
+  margin: 2em;
   witdh:100%;
-  height: 200px;
+  height: 200%;
   position: fixed;
   top: 0px;
   left: 0px;
+}
 
+.logo {
+  background-color: Black
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  border-radius: 100%
+  line-height: 150px;
 }
 
 /*Navigation Bar*/
@@ -78,7 +79,7 @@ body {
   width:350px;
   left: 0px;
   margin-top: 250px;
-  padding:30px;
+  padding:50px;
 
 }
 
@@ -87,7 +88,7 @@ body {
   width:350px;
   left: 375px;
   margin-top: 250px;
-  padding:30px;
+  padding:50px;
 
 }
 
@@ -96,7 +97,7 @@ body {
   width:350px;
   left: 750px;
   margin-top: 250px;
-  padding:10px;
+  padding:50px;
 
 }
 
