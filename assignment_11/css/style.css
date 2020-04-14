@@ -61,14 +61,11 @@ body {
   bottom: 0;
 }
 .social img {
-  width: 25%;
-  height:auto;
-
   float: right;
 }
 
 .social img:hover{
-  margin-top: 2.5em;
+  margin-bottom: 2.5em;
 }
 
 
@@ -78,7 +75,7 @@ body {
   width:350px;
   left: 0px;
   margin-top: 250px;
-  padding:50px;
+  float: left;
 
 }
 
@@ -87,16 +84,14 @@ body {
   width:350px;
   left: 375px;
   margin-top: 250px;
-  padding:50px;
-
-}
+  align-items: center;
 
 .Family {
   background-color: rgb(68, 152, 184);/*teal*/
   width:350px;
   left: 750px;
   margin-top: 250px;
-  padding:50px;
+  float:right;
 
 }
 
