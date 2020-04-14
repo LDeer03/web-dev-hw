@@ -2,7 +2,7 @@
 
 body {
   margin: 0;
-  background-color: rgb(68, 94, 184);
+  background-color: rgb(68, 94, 184);/*periwinkle*/
   color: rgb(184, 68, 94);/*Mauve*/
   padding: 50px;
   font-family: font-family: 'Open Sans', sans-serif;
@@ -28,7 +28,7 @@ body {
   left: 0px;
 }
 
-#logo {
+.logo img {
   z-index: 1;
   top: 0px;
   left:0px;
@@ -57,16 +57,19 @@ body {
 /*social*/
 
 .social {
-  background-color: inherit;
+  background-color: rgb(68, 152, 184);/*teal*/
+  margin: 2em 2em;
   width:inherit;
   bottom: 0;
 }
 .social img {
   z-index: 5;
+  margin: 2em 2em;
+  padding: 5em;
   float: right;
 }
 
-.social img:hover{
+.social img:hover {
   margin-bottom: 2.5em;
 }
 
@@ -80,6 +83,11 @@ body {
   margin-top: 350px;
   display: inline;
 }
+
+.activities img {
+  display: inline-block;
+}
+
 .Adult {
 border-style: solid;
 color: black;
