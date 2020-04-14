@@ -30,7 +30,7 @@ body {
 .site img {
   z-index: 3;
   position: relative;
-  top: 10px;
+  top: 5px;
   left:50px;
   border: solid;
   color: inherit;
@@ -41,6 +41,7 @@ body {
 .social img {
   z-index: 5;
   margin: 1em 1em 1em 1em;
+  top: auto;
   padding: 1em;
   border: none;
   float: right;
@@ -107,7 +108,7 @@ body {
 .main {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
-  position:;
+  position:relative;
   top: 75%;
   width: 100%;
   padding:20px;
