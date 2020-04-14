@@ -71,6 +71,7 @@ body {
 }
 
 .navigation a:hover {
+  color: white;
   font-style: italic;
 }
 
@@ -88,7 +89,8 @@ body {
 
 }
 .activities h3:hover {
-  color: italic rgb(100, 68, 184);/*purple*/
+  color: rgb(100, 68, 184);/*purple*/
+  font-style: italic;
 }
 
   #adult {
