@@ -79,6 +79,7 @@ body {
   height: 400px;
   margin-top: 350px;
   display: inline;
+  float:left;
 }
 
 .adult img {
@@ -136,11 +137,21 @@ h1 {
   font-style: italic;
   color: inherit;
   text-align: center;
+  letter-spacing: 6em
+  font-size: 10em
+  line-height: 2em
+}
+
+h2 {
+  font-family: 'Alegreya', serif;
+  font-style: italic;
+  color: inherit;
+  text-align: center;
   letter-spacing: 4em
   line-height: 2em
 }
 
-h2{
+h3{
   font-family: 'Alegreya', serif;
   text-align: center;
   letter-spacing: .01em
