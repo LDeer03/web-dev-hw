@@ -113,7 +113,7 @@ h1 {
   font-style: italic;
   color: inherit;
   text-align: center;
-  letter-spacing: 1em;
+  letter-spacing:.5em;
   font-size: 6em;
   line-height: .75em;
 }
