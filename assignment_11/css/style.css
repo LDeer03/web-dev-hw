@@ -30,7 +30,7 @@ body {
 .site img {
   z-index: 3;
   position: relative;
-  top: 20px;
+  top: 10px;
   left:50px;
   border: solid;
   color: inherit;
@@ -44,7 +44,7 @@ body {
   padding: 1em;
   border: none;
   float: right;
-  padding-right: ;
+  padding-right: 2em;
 }
 
 .social img:hover {
@@ -77,11 +77,12 @@ body {
 .activities {
   background-color: rgb(68, 152, 184);/*teal*/
   position: relative;
-  top:400px;
+  top:380px;
   width:300px;
   height: 300px;
   margin: 50px;
   border: 2px solid rgb(100, 68, 184);/*purple*/;
+  float:left;
 
 }
 
@@ -92,12 +93,12 @@ body {
 
 
   #kid {
-    float:left;
+
   }
 
 
   #family {
-    float:right;
+
   }
 
 /*Paragraph*/
