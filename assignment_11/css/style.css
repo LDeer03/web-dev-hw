@@ -91,12 +91,12 @@ body {
 
 
   #kid {
-    float:left; align-self: center;
+    float:left;
   }
 
 
   #family {
-    float:right; align-self: center;
+    float:right;
   }
 
 /*Paragraph*/
