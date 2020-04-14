@@ -29,7 +29,6 @@ body {
 
 .site img {
   z-index: 3;
-  position:;
   top: 5px;
   left:50px;
   border: solid;
@@ -45,7 +44,6 @@ body {
   padding: 1em;
   border: none;
   float: right;
-  padding-right: 2em;
 }
 
 .social img:hover {
@@ -68,6 +66,7 @@ body {
   color: inherit;
   margin: 2em;
   text-decoration:none;
+  font-size: 10px;
 }
 
 .navigation a:hover {
