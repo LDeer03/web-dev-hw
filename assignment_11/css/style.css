@@ -82,21 +82,36 @@ body {
   display: inline-block;
 }
 
-.Adult {
-border-style: solid;
-color: black;
+  .adult {
+    background-color: rgb(68, 152, 184);/*teal*/
+    width:33%;
+    height: 300px;
+    margin-top: 300px;
+    position: relative;
+    top:auto;
+    left: 5%;
 
-}
+  }
 
-.Kid {
-  border-style: solid;
-  color: black;
-}
+  .kid {
+    background-color: rgb(68, 152, 184);/*teal*/
+    width:33%;
+    height: 300px;
+    margin-top: 300px;
+    position: relative;
+    top:auto;
+    left: 45%;
+  }
 
-.Family {
-  border-style: solid;
-  color: black;
-}
+  .family {
+    background-color: rgb(68, 152, 184);/*teal*/
+    width:33%;
+    height: 300px;
+    margin-top: 300px;
+    position: relative;
+    top:auto;
+    left: 75%;
+  }
 
 /*Paragraph*/
 
