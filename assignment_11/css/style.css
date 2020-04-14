@@ -21,6 +21,8 @@ body {
 .site {
   background-color: rgb(158, 68, 184);/*test color*/
   witdh:100%;
+  height: 200px;
+  position: fixed;
 
 }
 
@@ -28,6 +30,8 @@ body {
 .navigation {
   background-color: rgb(68, 152, 184);/*teal*/
   width:100%;
+  height:50px;
+  position: fixed;
 
 }
 
@@ -66,7 +70,7 @@ body {
 
 #heading-1 {
   font-family: 'Alegreya', serif;
-  color: rgb(184, 68, 94);/*Mauve*/
+  color: Black;
   text-align: center;
 }
 
