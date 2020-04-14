@@ -26,15 +26,6 @@ body {
   left: 0px;
 }
 
-.logo {
-  background-color: Black
-  width: 200px;
-  height: 200px;
-  margin: auto;
-  border-radius: 100%
-  line-height: 150px;
-}
-
 /*Navigation Bar*/
 .navigation {
   background-color: rgb(68, 152, 184);/*teal*/
