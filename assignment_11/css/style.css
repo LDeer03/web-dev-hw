@@ -30,8 +30,8 @@ body {
 
 .site img {
   z-index: 3;
-  top: 0px;
-  left:50px;
+  top: 10px;
+  left:0px;
   border: solid;
   color: inherit;
 }
@@ -126,6 +126,7 @@ body {
 }
 
 h1 {
+  z-index: 3;
   font-family: 'Alegreya', serif;
   font-style: italic;
   color: inherit;
