@@ -4,7 +4,6 @@ body {
   margin: 0;
   background-color: rgb(68, 94, 184);/*periwinkle*/
   color: rgb(184, 68, 94);/*Mauve*/
-  position:;
   padding: 50px;
   font-family: font-family: 'Open Sans', sans-serif;
   font-size: .75em;
@@ -81,7 +80,7 @@ body {
   height: 300px;
   margin: 20px;
   border: 2px solid rgb(100, 68, 184);/*purple*/;
-  float:left;
+  float:left; align-self: center;
 }
 
 
@@ -116,7 +115,7 @@ h1 {
   color: inherit;
   text-align: center;
   letter-spacing: 6em;
-  font-size: 20em;
+  font-size: 12em;
   line-height: 2em;
 }
 
