@@ -47,6 +47,7 @@ body {
   z-index: 5;
   margin: 1em 1em 1em 1em;
   padding: 1em;
+  border: none;
   float: right;
 }
 
@@ -63,11 +64,12 @@ body {
   position: fixed;
 }
 
-.navigation a: {
+.navigation a {
   display:inline-block;
   margin: 2em 2em;
   text-decoration:none;
 }
+
 .navigation a:hover {
   font-style: italic;
 }
@@ -83,7 +85,7 @@ body {
 }
 
 .activities img {
-  align: center;
+  align-items: center;
 }
 
   .adult {
