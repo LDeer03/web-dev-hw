@@ -14,7 +14,7 @@ A border is a visual styling tool not a space management tool. Solid, dashed, do
 
 
 14. Embed the image of your sketch. image icon
-    ![My Screenshot](/assignment_11/images/Deer_Site Layout.jpg)
+    ![My Layout](/assignment_11/images/Deer_Site Layout.png)
 
 15. Free Response: Summarize your work cycle for this assignment.
 
