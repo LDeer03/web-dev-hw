@@ -28,12 +28,16 @@ body {
   left: 0px;
 }
 
+.logo {
+  z-index: 3;
+  top: 50px;
+  left:10px;
+}
+
 .logo img {
   z-index: 3;
-  top: 10px;
-  left:0px;
   border: solid;
-  color: inherit;
+  color: rgb(184, 68, 94);/*Mauve*/
 }
 
 .site img:hover {
