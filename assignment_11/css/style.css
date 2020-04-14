@@ -18,9 +18,9 @@ body {
 
 /*Fixed Bar*/
 .site {
-  margin: 2em;
-  witdh:100%;
-  height: 200%;
+  background-color: rgb(68, 152, 184);/*teal*/
+  width: 100%;
+  height: 200px;
   position: fixed;
   top: 0px;
   left: 0px;
