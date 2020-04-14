@@ -4,7 +4,7 @@ body {
   margin: 0;
   background-color: rgb(68, 94, 184);/*periwinkle*/
   color: rgb(184, 68, 94);/*Mauve*/
-  position: relative
+  position: relative;
   padding: 50px;
   font-family: font-family: 'Open Sans', sans-serif;
   font-size: .75em;
