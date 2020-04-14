@@ -29,9 +29,22 @@ body {
 }
 
 .logo img {
-  z-index: 1;
+  position: absolute;
   top: 0px;
   left:0px;
+}
+/*social*/
+
+
+.social img {
+  z-index: 5;
+  margin: 1em 1em;
+  padding: 2em;
+  float: right;
+}
+
+.social img:hover {
+  margin-bottom: 2.5em;
 }
 
 /*Navigation Bar*/
@@ -54,25 +67,6 @@ body {
 .navigation a:hover {
   font-style: italic;
 }
-/*social*/
-
-.social {
-  background-color: rgb(68, 152, 184);/*teal*/
-  margin: 2em 2em;
-  width:inherit;
-  bottom: 0;
-}
-.social img {
-  z-index: 5;
-  margin: 2em 2em;
-  padding: 5em;
-  float: right;
-}
-
-.social img:hover {
-  margin-bottom: 2.5em;
-}
-
 
 /*Activities*/
 
