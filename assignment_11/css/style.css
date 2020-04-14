@@ -6,7 +6,7 @@ body {
   color: rgb(184, 68, 94);/*Mauve*/
   padding: 50px;
   font-family: font-family: 'Open Sans', sans-serif;
-  font-size: .75em;
+  font-size: 1em;
 }
 
 .text {
@@ -21,8 +21,7 @@ body {
   z-index: 1;
   background-color: rgb(68, 152, 184);/*teal*/
   width: 100%;
-  height: 200px;
-  display: inline;
+  height: 300px;
   position: fixed;
   top: 0px;
   left: 0px;
@@ -31,8 +30,8 @@ body {
 .site img {
   z-index: 3;
   position: relative;
-  top: 0px;
-  left:0px;
+  top: 10px;
+  left:10px;
   border: solid;
   color: inherit;
 }
@@ -48,7 +47,7 @@ body {
 }
 
 .social img:hover {
-  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 /*Navigation Bar*/
@@ -103,7 +102,7 @@ body {
 .main {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
-  top: 1600px
+  top: 1600px;
   padding:10px;
   overflow: scroll;
 }
