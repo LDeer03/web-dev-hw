@@ -29,7 +29,6 @@ body {
 
 .site img {
   z-index: 3;
-  position: relative;
   top: 0px;
   left:50px;
   border: solid;
@@ -75,7 +74,7 @@ body {
 .activities {
   background-color: rgb(68, 152, 184);/*teal*/
   position: relative;
-  top:50%;
+  top:400px;
   width:300px;
   height: 300px;
   margin: 50px;
@@ -105,7 +104,7 @@ body {
   color: rgb(184, 68, 94);/*Mauve*/
   top: 75%;
   width: 100%;
-  padding:10px;
+  padding:20px;
   overflow: scroll;
 }
 
@@ -116,7 +115,7 @@ h1 {
   text-align: center;
   letter-spacing:.5em;
   font-size: 6em;
-  line-height: .5em;
+  line-height: .75em;
 }
 
 h2 {
