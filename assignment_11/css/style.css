@@ -34,13 +34,17 @@ body {
   border: solid;
   color: inherit;
 }
+
+.site img:hover {
+  margin-top: 1em;
+}
 /*social*/
 
 
 .social img {
   z-index: 10;
   margin: 1em 1em 1em 1em;
-  
+  top: inherit;
   border: none;
   float: right;
 }
