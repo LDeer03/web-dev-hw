@@ -9,13 +9,13 @@ body {
   font-size: 1.25em;
 }
 
-
 .text {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
   padding: 5px;
   line-height: 2em;
 }
+
 {
   border-color:black;
 }
@@ -43,6 +43,28 @@ body {
   position: fixed;
   top: 200px;
   left: 0px;
+  border-color: black;
+}
+.search {
+  border-radius: 2;
+  top:150px;
+  right: 65px;
+}
+.FB {
+  border-radius: 2;
+  top:150px;
+  right:45px;
+}
+.IG {
+  border-radius: 2;
+  top:150px;
+  right:25px;
+}
+
+.YT {
+  border-radius: 2;
+  top:150px;
+  right:5px;
 }
 
   a:hover {
@@ -56,23 +78,23 @@ body {
   width:350px;
   left: 0px;
   margin-top: 250px;
-  padding:10px;
+  padding:30px;
 
 }
 
 .Kid {
   background-color: rgb(68, 152, 184);/*teal*/
   width:350px;
-  position: center
+  left: 375px;
   margin-top: 250px;
-  padding:10px;
+  padding:30px;
 
 }
 
 .Family {
   background-color: rgb(68, 152, 184);/*teal*/
   width:350px;
-  right: 0px;
+  left: 750px;
   margin-top: 250px;
   padding:10px;
 
