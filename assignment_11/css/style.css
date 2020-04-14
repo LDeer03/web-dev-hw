@@ -2,27 +2,64 @@
 
 body {
   background-color: rgb(68, 94, 184);
-  color: blue;
+  color: rgb(184, 68, 94);/*Mauve*/
   padding: 50px;
   font-family: font-family: 'Open Sans', sans-serif;
+  font-size: 1.25em;
 }
-{
-  border-color:
-}
-/*Paragraph*/
-
 .text {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
   padding: 5px;
   line-height: 2em;
 }
+{
+  border-color:
+}
 
-.my-box{
+/*Fixed Bar*/
+.site info {
+  background-color: rgb(158, 68, 184);/*test color*/
+  witdh:100%;
+
+}
+
+/*Navigation Bar*/
+.navigation {
+  background-color: rgb(158, 68, 184);/*test color*/
+  width:100%;
+
+}
+
+/*Activities*/
+.Adult {
+  background-color: rgb(158, 68, 184);/*test color*/
+  width:33%;
+
+}
+
+.Kid {
+  background-color: rgb(158, 68, 184);/*test color*/
+  width:33%;
+
+}
+
+.Family {
+  background-color: rgb(158, 68, 184);/*test color*/
+  width:33%;
+
+}
+
+/*Paragraph*/
+
+.main {
+  background-color: rgb(68, 152, 184);/*teal*/
+  color: rgb(184, 68, 94);/*Mauve*/
+  line-height: 2em;
   width:;
   height:;
   border:;
-  padding:;
+  padding:5px;
   margin:;
   overflow: scroll;
 }
@@ -40,5 +77,6 @@ h2{
   line-height: 0.75em
 
 }
+
 
 </body>
