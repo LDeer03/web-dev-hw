@@ -1,6 +1,13 @@
 /*Page-Wide*/
 
 body {
+  background-color: rgb(68, 94, 184);
+color: rgb(184, 68, 94);/*Mauve*/
+padding: 50px;
+font-family: font-family: 'Open Sans', sans-serif;
+font-size: 1.25em;
+}
+
 
 .text {
   background-color: rgb(68, 152, 184);/*teal*/
@@ -16,7 +23,6 @@ body {
 .site {
   background-color: rgb(68, 94, 184);
   color: black;
-  font-family: font-family: 'Open Sans', sans-serif;
   font-size: 1.25em;
   witdh:100%;
   height: 200px;
@@ -44,7 +50,7 @@ body {
 /*Activities*/
 .Adult {
   background-color: rgb(68, 152, 184);/*teal*/
-  width:33%;
+  width:350px;
   left: 0px;
   margin-top: 250px;
 
@@ -52,7 +58,7 @@ body {
 
 .Kid {
   background-color: rgb(68, 152, 184);/*teal*/
-  width:33%;
+  width:350px;
   position: center
   margin-top: 250px;
 
@@ -60,7 +66,7 @@ body {
 
 .Family {
   background-color: rgb(68, 152, 184);/*teal*/
-  width:33%;
+  width:350px;
   right: 0px;
   margin-top: 250px;
 
