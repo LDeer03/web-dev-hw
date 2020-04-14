@@ -30,7 +30,7 @@ body {
 .site img {
   z-index: 3;
   position: relative;
-  top: 0px;
+  top: 20px;
   left:50px;
   border: solid;
   color: inherit;
@@ -53,6 +53,7 @@ body {
 
 /*Navigation Bar*/
 .navigation {
+  z-index: 4;
   background-color: rgb(100, 68, 184);/*purple*/
   width:100%;
   height:50px;
@@ -108,6 +109,8 @@ body {
   top: 75%;
   width: 100%;
   padding:20px;
+  text-align: center;
+  border: 2px solid rgb(100, 68, 184);/*purple*/;
   overflow: scroll;
 }
 
