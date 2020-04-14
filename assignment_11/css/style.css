@@ -1,12 +1,7 @@
 /*Page-Wide*/
 
 body {
-  background-color: rgb(68, 94, 184);
-  color: rgb(184, 68, 94);/*Mauve*/
-  padding: 50px;
-  font-family: font-family: 'Open Sans', sans-serif;
-  font-size: 1.25em;
-}
+
 .text {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
@@ -19,7 +14,10 @@ body {
 
 /*Fixed Bar*/
 .site {
-  background-color: rgb(158, 68, 184);/*test color*/
+  background-color: rgb(68, 94, 184);
+  color: black;
+  font-family: font-family: 'Open Sans', sans-serif;
+  font-size: 1.25em;
   witdh:100%;
   height: 200px;
   position: fixed;
@@ -34,10 +32,14 @@ body {
   width:100%;
   height:50px;
   position: fixed;
-  top: 0px;
+  top: 200px;
   left: 0px;
-
 }
+
+  a:hover {
+    font-style: italic;
+  }
+
 
 /*Activities*/
 .Adult {
@@ -78,10 +80,12 @@ body {
   overflow: scroll;
 }
 
-#heading-1 {
+h1 {
   font-family: 'Alegreya', serif;
   color: Black;
   text-align: center;
+  letter-spacing: 4em
+  line-height: 2em
 }
 
 h2{
