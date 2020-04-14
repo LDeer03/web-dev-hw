@@ -1,0 +1,44 @@
+/*Page-Wide*/
+
+body {
+  background-color: rgb(68, 94, 184);
+  color: blue;
+  padding: 50px;
+  font-family: font-family: 'Open Sans', sans-serif;
+}
+{
+  border-color:
+}
+/*Paragraph*/
+
+.text {
+  background-color: rgb(68, 152, 184);/*teal*/
+  color: rgb(184, 68, 94);/*Mauve*/
+  padding: 5px;
+  line-height: 2em;
+}
+
+.my-box{
+  width:;
+  height:;
+  border:;
+  padding:;
+  margin:;
+  overflow: scroll;
+}
+
+#heading-1 {
+  font-family: 'Alegreya', serif;
+  color: rgb(184, 68, 94);/*Mauve*/
+  text-align: center;
+}
+
+h2{
+  font-family: 'Alegreya', serif;
+  text-align: center;
+  letter-spacing: .01em
+  line-height: 0.75em
+
+}
+
+</body>
