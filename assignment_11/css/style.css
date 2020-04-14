@@ -6,7 +6,7 @@ body {
   color: rgb(184, 68, 94);/*Mauve*/
   padding: 50px;
   font-family: font-family: 'Open Sans', sans-serif;
-  font-size: 3em;
+  font-size: 0.75em;
 }
 
 .text {
@@ -67,7 +67,7 @@ body {
 
 .navigation a {
   display:inline-block;
-  margin: 2em 2em;
+  margin: 2em;
   text-decoration:none;
 }
 
@@ -85,7 +85,7 @@ body {
   display: inline;
 }
 
-.activities img {
+.adult img {
   align-items: center;
 }
 
@@ -99,6 +99,10 @@ body {
 
   }
 
+  .kid img {
+    align-items: center;
+  }
+
   .kid {
     background-color: rgb(68, 152, 184);/*teal*/
     width:300px;
@@ -106,6 +110,10 @@ body {
     position: relative;
     top:350px;
     padding-left: 50%;
+  }
+
+  .family img {
+    align-items: center;
   }
 
   .family {
