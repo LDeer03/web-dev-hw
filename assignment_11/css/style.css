@@ -88,10 +88,8 @@ body {
     background-color: rgb(68, 152, 184);/*teal*/
     width:33%;
     height: 300px;
-    margin-top: 300px;
-    position: relative;
-    top:300px;
-    left: 5%;
+    padding-top: 300px
+    padding-left: 5%;
 
   }
 
@@ -99,20 +97,16 @@ body {
     background-color: rgb(68, 152, 184);/*teal*/
     width:33%;
     height: 300px;
-    margin-top: 300px;
-    position: relative;
-    top:300px;
-    left: 45%;
+    padding-top: 300px
+    padding-left: 45%;
   }
 
   .family {
     background-color: rgb(68, 152, 184);/*teal*/
     width:33%;
     height: 300px;
-    margin-top: 300px;
-    position: relative;
-    top:300px;
-    left: 75%;
+    padding-top: 300px
+    padding-left: 75%;
   }
 
 /*Paragraph*/
