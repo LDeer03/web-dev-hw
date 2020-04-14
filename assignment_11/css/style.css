@@ -44,6 +44,7 @@ body {
   padding: 1em;
   border: none;
   float: right;
+  padding-right: ;
 }
 
 .social img:hover {
@@ -80,7 +81,7 @@ body {
   height: 300px;
   margin: 50px;
   border: 2px solid rgb(100, 68, 184);/*purple*/;
-  float:left; align-self: center;
+
 }
 
 
@@ -90,12 +91,12 @@ body {
 
 
   #kid {
-
+    float:left; align-self: center;
   }
 
 
   #family {
-
+    float:right; align-self: center;
   }
 
 /*Paragraph*/
@@ -103,7 +104,7 @@ body {
 .main {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
-  position: relative;
+  position:;
   top: 75%;
   width: 100%;
   padding:20px;
@@ -116,7 +117,7 @@ h1 {
   color: inherit;
   text-align: center;
   letter-spacing:.5em;
-  font-size: 6em;
+  font-size: 5em;
   line-height: .75em;
 }
 
