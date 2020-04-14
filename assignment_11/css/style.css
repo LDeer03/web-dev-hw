@@ -88,7 +88,7 @@ body {
 
 }
 .activities h3:hover {
-  font-style: italic;
+  color: rgb(100, 68, 184);/*purple*/
 }
 
   #adult {
