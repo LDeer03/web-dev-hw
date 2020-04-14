@@ -6,7 +6,7 @@ body {
   color: rgb(184, 68, 94);/*Mauve*/
   padding: 50px;
   font-family: font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
+  font-size: 16px;
 }
 
 .text {
@@ -65,7 +65,7 @@ body {
   display:inline-block;
   color: inherit;
   margin: 2em;
-  
+  margin-top: inherit;
   font-size: 25px;
 }
 
