@@ -40,7 +40,7 @@ body {
 .social img {
   z-index: 10;
   margin: 1em 1em 1em 1em;
-  top: auto;
+  
   border: none;
   float: right;
 }
