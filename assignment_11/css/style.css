@@ -18,7 +18,7 @@ body {
 }
 
 /*Fixed Bar*/
-.site info {
+.site {
   background-color: rgb(158, 68, 184);/*test color*/
   witdh:100%;
 
@@ -26,26 +26,26 @@ body {
 
 /*Navigation Bar*/
 .navigation {
-  background-color: rgb(158, 68, 184);/*test color*/
+  background-color: rgb(68, 152, 184);/*teal*/
   width:100%;
 
 }
 
 /*Activities*/
 .Adult {
-  background-color: rgb(158, 68, 184);/*test color*/
+  background-color: rgb(68, 152, 184);/*teal*/
   width:33%;
 
 }
 
 .Kid {
-  background-color: rgb(158, 68, 184);/*test color*/
+  background-color: rgb(68, 152, 184);/*teal*/
   width:33%;
 
 }
 
 .Family {
-  background-color: rgb(158, 68, 184);/*test color*/
+  background-color: rgb(68, 152, 184);/*teal*/
   width:33%;
 
 }
