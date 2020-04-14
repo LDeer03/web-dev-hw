@@ -64,29 +64,28 @@ body {
 
 
 /*Activities*/
-.Adult {
+
+.activities{
   background-color: rgb(68, 152, 184);/*teal*/
-  width:350px;
+  width:100%;
   height: 400px;
   margin-top: 250px;
-  float: left;
+  display: inline;
+}
+.Adult {
+border-style: solid;
+color: black;
 
 }
 
 .Kid {
-  background-color: rgb(68, 152, 184);/*teal*/
-  width:350px;
-  height:400px;
-  margin-top: 250px;
-  align-items: center;
+  border-style: solid;
+  color: black;
 }
 
 .Family {
-  background-color: rgb(68, 152, 184);/*teal*/
-  width:350px;
-  height:400px;
-  margin-top: 250px;
-  float:right;
+  border-style: solid;
+  color: black;
 }
 
 /*Paragraph*/
