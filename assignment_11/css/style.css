@@ -40,7 +40,7 @@ body {
 .navigation a{
   display:inline-block;
   margin: 2em;
-  text-decoration: none;
+  text-decoration:none;
   color:inherit;
 }
 .navigation a:hover {
@@ -54,6 +54,7 @@ body {
   bottom: 0;
 }
 .social img {
+  z-index: 1;
   float: right;
 }
 
