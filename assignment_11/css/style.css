@@ -107,6 +107,7 @@ body {
 .main {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
+  position: inherit;
   border:;
   padding:10px;
   overflow: inherit;
@@ -118,7 +119,7 @@ h1 {
   color: inherit;
   text-align: center;
   letter-spacing: 6em
-  font-size: 10em
+  font-size: 20em
   line-height: 2em
 }
 
