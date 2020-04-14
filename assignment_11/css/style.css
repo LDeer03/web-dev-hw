@@ -30,9 +30,10 @@ body {
 
 .logo img {
   z-index: 3;
-  position: absolute;
+  position: relative;
   top: 0px;
   left:0px;
+  border: solid;
 }
 /*social*/
 
@@ -40,12 +41,12 @@ body {
 .social img {
   z-index: 5;
   margin: 1em 1em;
-  padding: 2em;
+  padding: 1em;
   float: right;
 }
 
 .social img:hover {
-  margin-bottom: 2.5em;
+  margin-bottom: 1em;
 }
 
 /*Navigation Bar*/
@@ -64,6 +65,7 @@ body {
   margin: 2em;
   text-decoration:none;
   color:inherit;
+  position: inherit;
 }
 .navigation a:hover {
   font-style: italic;
@@ -80,33 +82,36 @@ body {
 }
 
 .activities img {
-  display: inline;
   align: center;
+  position: center;
 }
 
   .adult {
     background-color: rgb(68, 152, 184);/*teal*/
-    width:33%;
+    width:300px;
     height: 300px;
-    padding-top: 300px
-    padding-left: 5%;
+    position: relative;
+    top:inherit;
+    padding-left: 50px;
 
   }
 
   .kid {
     background-color: rgb(68, 152, 184);/*teal*/
-    width:33%;
+    width:300px;
     height: 300px;
-    padding-top: 300px
-    padding-left: 45%;
+    position: relative;
+    top:inherit;
+    padding-left: 400px;
   }
 
   .family {
     background-color: rgb(68, 152, 184);/*teal*/
-    width:33%;
+    width:300px;
     height: 300px;
-    padding-top: 300px
-    padding-left: 75%;
+    position: relative;
+    top:inherit;
+    padding-left: 750px;
   }
 
 /*Paragraph*/
