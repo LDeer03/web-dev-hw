@@ -47,7 +47,7 @@ body {
   border-color: black;
 }
 .navigation a{
-  display: block;
+  display:inline-block;
   margin: 2em;
 }
 .navigation a:hover {
