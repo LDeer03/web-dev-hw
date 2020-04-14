@@ -17,7 +17,7 @@ body {
   line-height: 2em;
 }
 {
-  border-color:
+  border-color:black;
 }
 
 /*Fixed Bar*/
@@ -56,6 +56,7 @@ body {
   width:350px;
   left: 0px;
   margin-top: 250px;
+  padding:10px;
 
 }
 
@@ -64,6 +65,7 @@ body {
   width:350px;
   position: center
   margin-top: 250px;
+  padding:10px;
 
 }
 
@@ -72,6 +74,7 @@ body {
   width:350px;
   right: 0px;
   margin-top: 250px;
+  padding:10px;
 
 }
 
