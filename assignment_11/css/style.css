@@ -59,6 +59,7 @@ body {
   height:50px;
   position: fixed;
   margin-top: 250px;
+  left: 0px;
 }
 
 .navigation a {
