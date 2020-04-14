@@ -43,12 +43,14 @@ body {
   padding: 20px;
   position: fixed;
   top: 200px;
-  left: 0px;
-  border-color: black;
+  right: 0px;
+
 }
 .navigation a{
   display:inline-block;
   margin: 2em;
+  text-decoration: none;
+  color:inherit;
 }
 .navigation a:hover {
   font-style: italic;
@@ -73,7 +75,7 @@ body {
 .Adult {
   background-color: rgb(68, 152, 184);/*teal*/
   width:350px;
-  left: 0px;
+  height: 400px;
   margin-top: 250px;
   float: left;
 
@@ -82,17 +84,17 @@ body {
 .Kid {
   background-color: rgb(68, 152, 184);/*teal*/
   width:350px;
-  left: 375px;
+  height:400px;
   margin-top: 250px;
   align-items: center;
+}
 
 .Family {
   background-color: rgb(68, 152, 184);/*teal*/
   width:350px;
-  left: 750px;
+  height:400px;
   margin-top: 250px;
   float:right;
-
 }
 
 /*Paragraph*/
@@ -101,11 +103,9 @@ body {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
   line-height: 2em;
-  width:;
-  height:;
   border:;
   padding:5px;
-  margin:;
+  margin:auto;
   overflow: scroll;
 }
 
