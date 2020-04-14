@@ -50,9 +50,9 @@ body {
 
 /*Navigation Bar*/
 .navigation {
-  background-color: rgb(68, 94, 184);/*periwinkle*/
+  background-color: rgb(100, 68, 184);/*purple*/
   width:100%;
-  height:50px;
+  height:10px;
   padding: 20px;
   position: fixed;
   top: 200px;
@@ -80,7 +80,8 @@ body {
 }
 
 .activities img {
-  display: inline-block;
+  display: inline;
+  align: center;
 }
 
   .adult {
@@ -89,7 +90,7 @@ body {
     height: 300px;
     margin-top: 300px;
     position: relative;
-    top:auto;
+    top:300px;
     left: 5%;
 
   }
@@ -100,7 +101,7 @@ body {
     height: 300px;
     margin-top: 300px;
     position: relative;
-    top:auto;
+    top:300px;
     left: 45%;
   }
 
@@ -110,7 +111,7 @@ body {
     height: 300px;
     margin-top: 300px;
     position: relative;
-    top:auto;
+    top:300px;
     left: 75%;
   }
 
