@@ -36,7 +36,7 @@ body {
 }
 
 .site img:hover {
-  margin-bottom: 1em;
+  border: dashed;
 }
 /*social*/
 
