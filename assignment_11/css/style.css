@@ -34,6 +34,7 @@ body {
 
 .site img {
   z-index: 3;
+  position: absolute
   top: 0px;
   left:0px;
   border: solid;
@@ -44,6 +45,7 @@ body {
 
 .social img {
   z-index: 5;
+  position: absolute;
   margin: 1em 1em 1em 1em;
   padding: 1em;
   border: none;
