@@ -109,10 +109,10 @@ body {
   background-color: rgb(68, 152, 184);/*teal*/
   color: rgb(184, 68, 94);/*Mauve*/
   position:;
-  top: 75%;
+  top: 90%;
   width: 100%;
   padding:20px;
-  text-align: center;
+  text-align: left;
   border: 2px solid rgb(100, 68, 184);/*purple*/;
   overflow: scroll;
 }
