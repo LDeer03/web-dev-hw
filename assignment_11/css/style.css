@@ -42,7 +42,7 @@ body {
 
 
 .social img {
-  z-index: 3;
+  z-index: 5;
   margin: 1em 1em 1em 1em;
   border: none;
   float: right;
