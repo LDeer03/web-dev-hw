@@ -29,14 +29,14 @@ body {
 
 .site img {
   z-index: 3;
-  top: 0px;
+  top: 50px;
   left:50px;
   border: solid;
   color: inherit;
 }
 
 .site img:hover {
-  color: rgb(100, 68, 184);/*purple*/
+  color: white;
 }
 /*social*/
 
