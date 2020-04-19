@@ -20,3 +20,5 @@ A border is a visual styling tool not a space management tool. Solid, dashed, do
 15. Free Response: Summarize your work cycle for this assignment.
 
 I have developed a system that works for me and I am sticking to it. I read the assignment, set up the basics in Atom, read the material while answering the README questions. This week I was also paying attention to what designs/positioning I like to build my page. Then I did my sketch. Just when I thought things were going smooth, I hit a snag. I would think I was close and then everything would shift. Between positioning code mistakes and update speed, this was the most time consuming project yet.
+
+I could not control the placement of the logo or the social media links. If I moved them, it messes up other things. So, my social media links are in a lower layer.
