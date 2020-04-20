@@ -5,6 +5,7 @@
 68, 7, 206 #4407CE- Blue */
 /*background*/
 body {
+  z-index: 1;
   margin: 0;
   background-color: rgb(7,206,167);/*Green 2*/
   color: rgb(145,206,7);/*Green 1*/
@@ -127,6 +128,7 @@ h2 {
   height:;
   margin: 50px;
   border: 2px solid rgb(145,206,7);/*Green 1*/
+  align: center;
 
 }
 
