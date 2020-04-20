@@ -25,12 +25,14 @@ h1 {
   font-family: 'Bigelow Rules', cursive;
   font-size: 48px;
   color: rgb(206,7,47); /*red*/
+  align-items: center;
 }
 
 h2 {
   font-family: 'Mountains of Christmas', cursive;
   font-size: 24px;
   color: rgb(206,7,47); /*red*/
+  align-items: center;
 }
 
 /*header-Fixed Bar*/
@@ -65,7 +67,7 @@ h2 {
 }
 
 .social img:hover {
-  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 /*Navigation Bar*/
@@ -85,6 +87,7 @@ h2 {
   color: inherit;
   margin: 2em;
   font-size: 25px;
+  align-items: center;
 }
 
 .navigation a:hover {
@@ -98,8 +101,8 @@ h2 {
   background-color: rgb(206,7,47); /*red*/
   position: relative;
   top:380px;
-  width:300px;
-  height: 300px;
+  width:400px;
+  height: 400px;
   margin: 50px;
   border: 2px solid rgb(145,206,7);/*Green 1*/
   float:left;
