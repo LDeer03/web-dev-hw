@@ -49,8 +49,8 @@ h2 {
 
 
 .site img {
-  top: 50px;
-  left:10px;
+  top: 150px;
+  left:50px;
   border: solid;
   color: rgb(145,206,7);/*Green 1*/
 }
@@ -64,7 +64,7 @@ h2 {
   margin: 1em 1em 1em 1em;
   border: solid;
   color: rgb(145,206,7);/*Green 1*/
-  position:;
+  position: fixed;
   top:175px;
   float: right;
 }
