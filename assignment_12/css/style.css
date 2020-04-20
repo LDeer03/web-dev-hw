@@ -110,7 +110,7 @@ h2 {
   margin: 50px;
   border: 2px solid rgb(145,206,7);/*Green 1*/
   float:left;
-  align: center;
+  align-items: center;
 
 }
 .activities h3:hover {
@@ -128,7 +128,7 @@ h2 {
   height:;
   margin: 50px;
   border: 2px solid rgb(145,206,7);/*Green 1*/
-  align: center;
+  align-content: center;
 
 }
 
@@ -143,7 +143,12 @@ h2 {
 p:first-letter {
   font-family: 'Bigelow Rules', cursive;
   font-style: italic;
-  font-size: 2em;
+  font-size: 5em;
   font-weight: 500;
   color: rgb(145,206,7);/*Green 1*/
+}
+
+.textarea {
+  font-family: 'Bigelow Rules', cursive;
+  color: rgb(68, 7, 206);/*Blue */
 }
