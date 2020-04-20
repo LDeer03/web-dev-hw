@@ -1,0 +1,111 @@
+/*colors
+206,7,47 #CE072E- Red
+7,206,167 #07CEA7- Green 2
+145,206,7 #91CE07- Green 1
+68, 7, 206 #4407CE- Blue */
+/*background*/
+body {
+  margin: 0;
+  background-color: rgb(7,206,167);/*Green 2*/
+  color: rgb(145,206,7);/*Green 1*/
+  padding: 50px;
+  font-family: 'Arima Madurai', cursive;
+  font-size: 14px;
+}
+
+.text {
+  background-color: rgb(7,206,167);/*Green 2*/
+  color: rgb(145,206,7);/*Green 1*/
+  padding: 5px;
+  line-height: 2em;
+}
+
+
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 48px;
+  color: rgb(206,7,47); /*red*/
+}
+
+h2 {
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 24px;
+  color: rgb(206,7,47); /*red*/
+}
+
+/*header-Fixed Bar*/
+.site {
+  background-color: rgb(145,206,7);/*Green 1*/
+  width: 100%;
+  height: 350px;
+  top: 0px;
+  left:0px;
+  position: fixed;
+}
+
+
+.site img {
+  top: 50px;
+  left:10px;
+  border: solid;
+  color: rgb(145,206,7);/*Green 1*/
+}
+
+.site img:hover {
+  color: rgb(68, 7, 206);/*Blue */
+}
+
+/*social*/
+.social img {
+  margin: 1em 1em 1em 1em;
+  border: none;
+  position:;
+  top:200px;
+  float: right;
+}
+
+.social img:hover {
+  margin-top: 1em;
+}
+
+/*Navigation Bar*/
+.navigation {
+  z-index: 3;
+  background-color:rgb(206,7,47); /*red*/
+  width:100%;
+  height:100px;
+  position: fixed;
+  margin-top: 250px;
+  left: 0px;
+}
+
+.navigation a {
+  z-index: 4;
+  display:inline-block;
+  color: inherit;
+  margin: 2em;
+  font-size: 25px;
+}
+
+.navigation a:hover {
+  color: rgb(68, 7, 206);/*Blue */
+  font-style: italic;
+}
+
+/*Activities*/
+
+.activities {
+  background-color: rgb(206,7,47); /*red*/
+  position: relative;
+  top:380px;
+  width:300px;
+  height: 300px;
+  margin: 50px;
+  border: 2px solid rgb(145,206,7);/*Green 1*/
+  float:left;
+
+}
+.activities h3:hover {
+  color: rgb(68, 7, 206);/*Blue */
+  font-style: italic;
+}
