@@ -131,3 +131,7 @@ h2 {
 .container a {
   font-size: 25px;
 }
+
+.container h1 {
+  color: rgb(145,206,7);/*Green 1*/
+}
