@@ -136,6 +136,10 @@ h2 {
   font-size: 25px;
 }
 
+.container img {
+  align: center;
+}
+
 .container h1 {
   color: rgb(145,206,7);/*Green 1*/
 }
