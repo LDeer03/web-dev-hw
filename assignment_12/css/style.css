@@ -60,14 +60,15 @@ h2 {
 /*social*/
 .social img {
   margin: 1em 1em 1em 1em;
-  border: none;
+  border: solid;
+  color: rgb(145,206,7);/*Green 1*/
   position:;
   top:200px;
   float: right;
 }
 
 .social img:hover {
-  margin-bottom: 1em;
+  color: rgb(68, 7, 206);/*Blue */
 }
 
 /*Navigation Bar*/
@@ -101,8 +102,8 @@ h2 {
   background-color: rgb(206,7,47); /*red*/
   position: relative;
   top:380px;
-  width:400px;
-  height: 400px;
+  width:700px;
+  height: 420px;
   margin: 50px;
   border: 2px solid rgb(145,206,7);/*Green 1*/
   float:left;
@@ -111,4 +112,21 @@ h2 {
 .activities h3:hover {
   color: rgb(68, 7, 206);/*Blue */
   font-style: italic;
+}
+
+/*About*/
+
+.container {
+  background-color: rgb(206,7,47); /*red*/
+  position: relative;
+  top:380px;
+  width:80%;
+  height:;
+  margin: 50px;
+  border: 2px solid rgb(145,206,7);/*Green 1*/
+
+}
+
+.container a {
+  font-size: 25px;
 }
