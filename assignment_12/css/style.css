@@ -161,6 +161,11 @@ h2 {
   padding-left: 40%;
 }
 
+#respond {
+  color: rgb(145,206,7);/*Green 1*/
+  font-family: 'Arima Madurai', cursive;
+}
+
 .container h1 {
   color: rgb(145,206,7);/*Green 1*/
 }
