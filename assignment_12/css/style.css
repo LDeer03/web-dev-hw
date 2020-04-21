@@ -116,7 +116,7 @@ h2 {
   color: rgb(68, 7, 206);/*Blue */
   font-style: italic;
 }
-#recipies {
+#recipes {
   background-color: rgb(206,7,47); /*red*/
   position: relative;
   top:380px;
@@ -134,7 +134,7 @@ h2 {
   background-color: rgb(206,7,47); /*red*/
   position: relative;
   top:380px;
-  width:80%;
+  width:90%;
   height:;
   margin: 50px;
   border: 2px solid rgb(145,206,7);/*Green 1*/
