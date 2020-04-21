@@ -110,12 +110,22 @@ h2 {
   border: 2px solid rgb(145,206,7);/*Green 1*/
   float:left;
   align-items: center;
-  overflow: scroll;
 
 }
 .activities h3:hover {
   color: rgb(68, 7, 206);/*Blue */
   font-style: italic;
+}
+#recipies {
+  background-color: rgb(206,7,47); /*red*/
+  position: relative;
+  top:380px;
+  width:80%;
+  height:;
+  margin: 50px;
+  border: 2px solid rgb(145,206,7);/*Green 1*/
+  align-content: center;
+
 }
 
 /*About*/
