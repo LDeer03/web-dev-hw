@@ -1,7 +1,9 @@
+/*I made this page from the video but it changed my entire site. I have been sick all week and I didn't have time to trouble shoot before the deadline. I am hoping to come back to it.
+
 /*css for navigation*/
 
 
-/*menu bar (container):*/
+/*menu bar (container):
 menu {
   margin: 0;
   padding: 0;
@@ -9,7 +11,7 @@ menu {
 
 }
 
-/*Top*/
+/*Top
 #tool-bar {
   margin: 0;
   padding: 0;
@@ -20,18 +22,18 @@ menu {
   padding: .5em 1em;
   display: inline-block;
 
-  background-color:  rgb(206,7,47); /*red*/
+  background-color:  rgb(206,7,47); /*red
 
   text-align: center;
-  color:rgb(145,206,7);/*Green 1*/
+  color:rgb(145,206,7);/*Green 1
 }
 
 #tool-bar .menu-item:hover {
-color: rgb(68, 7, 206);/*Blue */
+color: rgb(68, 7, 206);/*Blue
 font-style: italic;
 }
 
-/*drop down:*/
+/*drop down:
 #tool-bar .dropdown {
   display: inline-block;
   width: 6em;
@@ -41,18 +43,18 @@ font-style: italic;
   display: none;
   position: absolute;
   z-index: 5
-  background-color:  rgb(206,7,47); /*red*/
+  background-color:  rgb(206,7,47); /*red
 }
 
 #tool-bar .dropdown-content: {
-  background-color:  rgb(206,7,47); /*red*/
+  background-color:  rgb(206,7,47); /*red
   text-align: center;
-  color:rgb(145,206,7);/*Green 1*/
+  color:rgb(145,206,7);/*Green 1
 }
 
 #tool-bar .dropdown-content a:hover {
   display: block;
-  color: rgb(68, 7, 206);/*Blue */
+  color: rgb(68, 7, 206);/*Blue
   font-style: italic;
 }
 #tool-bar .dropdown-item {
@@ -61,19 +63,20 @@ font-style: italic;
   display: block;
   text-align: center;
 }
+
 #tool-bar .dropdown-item:hover {
-color: rgb(68, 7, 206);/*Blue */
+color: rgb(68, 7, 206);/*Blue
 font-style: italic;
 }
 
-/*social media:*/
+/*social media:
 #social {
   display: inline-block;
   padding:  1em 1em 1em 1em;
   float: right;
   border: solid;
   color: rgb(145,206,7);/*Green 1*/
-
+/*
 }
 #social .social-item {
 

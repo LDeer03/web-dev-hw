@@ -60,6 +60,45 @@ h2 {
   color: rgb(68, 7, 206);/*Blue */
 }
 
+/*social*/
+.social img {
+  margin: 1em 1em 1em 1em;
+  border: solid;
+  color: rgb(145,206,7);/*Green 1*/
+  top:175px;
+  float: right;
+}
+
+.social img:hover {
+  color: rgb(68, 7, 206);/*Blue */
+}
+
+/*Navigation Bar*/
+.navigation {
+  z-index: 3;
+  background-color:rgb(206,7,47); /*red*/
+  width:100%;
+  height:100px;
+  position: fixed;
+  margin-top: 250px;
+  left: 0px;
+  align: center;
+}
+
+.navigation a {
+  z-index: 4;
+  display:inline-block;
+  color: inherit;
+  margin: 2em;
+  font-size: 25px;
+  align: center;
+}
+
+.navigation a:hover {
+  color: rgb(68, 7, 206);/*Blue */
+  font-style: italic;
+}
+
 /*Activities*/
 
 .activities {
