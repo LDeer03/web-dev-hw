@@ -10,13 +10,13 @@
 
 14. What is the difference between display: block, display: inline, and display: inline-block?
 
-Block:
+Block: Turns inline elements into block elements. Good to create vertical navigation bars out of lists.
 
-Inline:
+Inline: forces elements to act like inline elements. Can only change the horizontal properties.
 
-Inline-block:
+Inline-block: Respects horizontal and vertical properties. Must set width.
 
 
 15. Free Response: Summarize your work cycle for this assignment.
 
-This week was a little different of a process because there was so much review. I read the assignment, built and launched the site, read the material,
+This week was a little different of a process because there was so much review. I read the assignment, built and launched the site, read the material, and then watched the video. I had to change quite after watching the video. I don't remember seeing anything about a font or menu css. But, got it in.
