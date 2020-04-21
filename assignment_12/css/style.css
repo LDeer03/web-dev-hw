@@ -74,17 +74,7 @@ h2 {
 }
 
 /*Navigation Bar*/
-header {
-  background-color:rgb(206,7,47); /*red*/
-  font-family: font-family: 'Arima Madurai', cursive;
-  font-size: 10pt;
-  margin: 0;
-  height: 2.15em;
-  text-align: right;
-  }
-
-  .navigation {
-  display: inline-block;
+.navigation {
   z-index: 3;
   background-color:rgb(206,7,47); /*red*/
   width:100%;
@@ -104,53 +94,7 @@ header {
   align: center;
 }
 
-.menu-item {
-  display: inline-block;
-  margin: 0;
-  min-width: 6em;
-  text-align: center;
-  background-color: rgb(206,7,47); /*red*/
-  padding: .5em 0em
-}
-
-.menu-item a {
-  color: rgb(145,206,7);/*Green 1*/
-  text-decoration: none;
-}
-.menu-item:hover {
-  color: rgb(68, 7, 206);/*Blue */
-  font-style: italic;
-}
-
-.dropdown {
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  border: 1px solid rgb(68, 7, 206);/*Blue */
-  margin: 0;
-  margin-top: .5em;
-  color: rgb(145,206,7);/*Green 1*/
-  background-color: rgb(206,7,47); /*red*/
-  z-index: 1
-}
-.dropdown-content a{
-  color: rgb(145,206,7);/*Green 1*/
-}
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-.dropdown-item {
-  display: block;
-  text-align: left;
-  margin: 0;
-  padding: .5em;
-  min-width: 6em;
-}
-
-.dropdown-item:hover, .dropdown-item:hover a {
+.navigation a:hover {
   color: rgb(68, 7, 206);/*Blue */
   font-style: italic;
 }
