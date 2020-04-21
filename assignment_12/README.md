@@ -19,4 +19,6 @@ Inline-block: Respects horizontal and vertical properties. Must set width.
 
 15. Free Response: Summarize your work cycle for this assignment.
 
-This week was a little different of a process because there was so much review. I read the assignment, built and launched the site, read the material, and then watched the video. I had to change quite after watching the video. I don't remember seeing anything about a font or menu css. But, got it in.
+This week was a little different of a process because there was so much review. I read the assignment, built and launched the site, read the material, and then watched the video. I had to change quite after watching the video. I don't remember seeing anything about a font or menu css.
+
+After attempting to add the new css files, my entire site fell apart. Unfortunately I have been sick this week, so in the time I have left before the deadline, I can not trouble shoot what happened. I restored my site to before the additions and take my chances. As you know, this is not the work I like to turn in. I tried several different ways to add the drop down menu but was unable to. I decided it was better to have a page that looked visually correct than to have a partial tool bar. I will try again if there is time and I feel better. Thank you for teaching us so much!!  
