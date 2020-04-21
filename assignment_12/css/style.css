@@ -110,6 +110,7 @@ h2 {
   border: 2px solid rgb(145,206,7);/*Green 1*/
   float:left;
   align-items: center;
+  overflow: scroll;
 
 }
 .activities h3:hover {
