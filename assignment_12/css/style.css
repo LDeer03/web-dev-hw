@@ -148,6 +148,12 @@ h2 {
 
 .container a {
   font-size: 25px;
+  color: rgb(145,206,7);/*Green 1*/
+}
+
+.container a:hover {
+  color: rgb(68, 7, 206);/*Blue */
+  font-style: italic;
 }
 
 .container img {
