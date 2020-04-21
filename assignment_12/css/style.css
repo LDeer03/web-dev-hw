@@ -5,7 +5,7 @@
 68, 7, 206 #4407CE- Blue */
 /*background*/
 body {
-  z-index: 1;
+  z-index: 2;
   margin: 0;
   background-color: rgb(7,206,167);/*Green 2*/
   color: rgb(145,206,7);/*Green 1*/
@@ -23,6 +23,7 @@ body {
 
 
 h1 {
+  z-index: 2
   font-family: 'Bigelow Rules', cursive;
   font-size: 75px;
   color: rgb(206,7,47); /*red*/
@@ -30,6 +31,7 @@ h1 {
 }
 
 h2 {
+  z-index: 2
   font-family: 'Mountains of Christmas', cursive;
   font-size: 24px;
   color: rgb(206,7,47); /*red*/
@@ -49,7 +51,7 @@ h2 {
 
 
 .site img {
-  z-index: inherit;
+  z-index: 1;
   top: 150px;
   left:50px;
   border: solid;
