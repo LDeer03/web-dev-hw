@@ -83,7 +83,7 @@ header {
   text-align: right;
   }
 
-  /*.navigation {
+  .navigation {
   display: inline-block;
   z-index: 3;
   background-color:rgb(206,7,47); /*red*/
@@ -95,7 +95,7 @@ header {
   align: center;
 }
 
-/*.navigation a {
+.navigation a {
   z-index: 4;
   display:inline-block;
   color: inherit;
@@ -103,7 +103,7 @@ header {
   font-size: 25px;
   align: center;
 }
-*/
+
 .menu-item {
   display: inline-block;
   margin: 0;
