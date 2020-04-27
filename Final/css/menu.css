@@ -10,18 +10,16 @@ menu {
 }
 
 /*Top*/
-#tool-bar {
+#site-links {
   margin: 0;
   padding: 0;
   display: inline-block;
 }
-#tool-bar .menu-item {
+#site-links .menu-item {
   width: 6em;
   padding: .5em 1em;
   display: inline-block;
-
   background-color:  rgb(206,7,47); /*red*/
-
   text-align: center;
   color:rgb(145,206,7);/*Green 1*/
 }
