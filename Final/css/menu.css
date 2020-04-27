@@ -45,7 +45,7 @@ text-decoration-style: wavy;
   background-color:  rgb(206,7,47); /*red*/
 }
 
-#site-links .dropdown-content: {
+#site-links .dropdown-content a {
   background-color:  rgb(206,7,47); /*red*/
   text-align: center;
   color:rgb(145,206,7);/*Green 1*/
