@@ -25,8 +25,11 @@ menu {
 }
 
 #site-links .menu-item:hover {
+background-color: rgb(145,206,7);/*Green 1*/
 color: rgb(68, 7, 206);/*Blue*/
-font-style: italic;
+text-decoration: overline underline;
+text-decoration-color:  rgb(68, 7, 206);/*Blue*/
+text-decoration-style: wavy;
 }
 
 /*drop down:*/
