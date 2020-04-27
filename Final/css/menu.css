@@ -24,7 +24,7 @@ menu {
   color:rgb(145,206,7);/*Green 1*/
 }
 
-#tool-bar .menu-item:hover {
+#site-links .menu-item:hover {
 color: rgb(68, 7, 206);/*Blue*/
 font-style: italic;
 }
