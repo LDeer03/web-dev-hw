@@ -33,37 +33,37 @@ text-decoration-style: wavy;
 }
 
 /*drop down:*/
-#tool-bar .dropdown {
+#site-links .dropdown {
   display: inline-block;
   width: 6em;
 }
 
-#tool-bar .dropdown-content {
+#site-links .dropdown-content {
   display: none;
   position: absolute;
   z-index: 5
   background-color:  rgb(206,7,47); /*red*/
 }
 
-#tool-bar .dropdown-content: {
+#site-links .dropdown-content: {
   background-color:  rgb(206,7,47); /*red*/
   text-align: center;
   color:rgb(145,206,7);/*Green 1*/
 }
 
-#tool-bar .dropdown-content a:hover {
+#site-links .dropdown-content a:hover {
   display: block;
   color: rgb(68, 7, 206);/*Blue*/
   font-style: italic;
 }
-#tool-bar .dropdown-item {
+#site-links .dropdown-item {
   min-width: 6em;
   padding: .5em 1em;
   display: block;
   text-align: center;
 }
 
-#tool-bar .dropdown-item:hover {
+#site-links .dropdown-item:hover {
 color: rgb(68, 7, 206);/*Blue*/
 font-style: italic;
 }
