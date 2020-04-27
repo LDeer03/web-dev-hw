@@ -56,6 +56,11 @@ text-decoration-style: wavy;
   color: rgb(68, 7, 206);/*Blue*/
   font-style: italic;
 }
+
+#site-links .dropdown:hover .dropdown-content {
+  display: block;
+}
+
 #site-links .dropdown-item {
   min-width: 6em;
   padding: .5em 1em;
