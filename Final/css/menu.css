@@ -78,13 +78,13 @@ font-style: italic;
   display: inline-block;
   padding:  1em 1em 1em 1em;
   float: right;
-  border: solid;
-  color: rgb(145,206,7);/*Green 1*/
+
 }
 
 #social .social-item {
-
-
+  margin: 5px;
+  border: solid;
+  color: rgb(145,206,7);/*Green 1*/
 }
 #social img:hover {
   color: rgb(68, 7, 206);/*Blue */
