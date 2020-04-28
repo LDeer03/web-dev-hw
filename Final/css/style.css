@@ -4,6 +4,11 @@ Brown: ##AE7441 (174, 116, 65) brown
 Green: ##44AE41 (68, 174, 65) green
 Blue: ##417BAE (65, 123, 174) blue
 */
+/*Fonts=
+font-family: 'Dosis', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+*/
 
 
 body {
@@ -12,7 +17,7 @@ body {
   background-color: rgb(174, 116, 65); /*brown*/
   color: rgb(65, 123, 174); /*blue*/
   padding: 50px;
-  font-family: 'Arima Madurai', cursive;
+  font-family: 'Dosis', sans-serif;
   font-size: 20px;
 }
 
@@ -21,4 +26,18 @@ body {
   color: rgb(65, 123, 174); /*blue*/
   padding: 5px;
   line-height: 2em;
+}
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 75px;
+
+  color: rgb(171, 65, 174); purple
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 24px;
+  color: rgb(68, 174, 65); green
+  text-align: center;
 }
