@@ -34,7 +34,7 @@ background-color: rgb(68, 174, 65); /*green*/
 color: rgb(65, 123, 174); /*blue*/
 text-decoration: overline underline;
 text-decoration-color:  rgb(65, 123, 174); /*blue*/
-text-decoration-style: wavy;
+text-decoration-style:dashed;
 }
 
 /*drop down:*/
