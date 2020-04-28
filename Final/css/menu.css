@@ -1,11 +1,16 @@
+/*Colors=
+Purple:#AB41AE (171, 65, 174) purple
+Brown: ##AE7441 (174, 116, 65) brown
+Green: ##44AE41 (68, 174, 65) green
+Blue: ##417BAE (65, 123, 174) blue
+*/
+
 /*css for navigation*/
-
-
 /*menu bar (container):*/
 menu {
   margin: 0;
   padding: 0;
-  background-color: rgb(206,7,47); /*red*/
+  background-color: rgb(171, 65, 174); /*purple*/
 
 }
 
@@ -19,16 +24,16 @@ menu {
   width: 6em;
   padding: .5em 1em;
   display: inline-block;
-  background-color:  rgb(206,7,47); /*red*/
+  background-color:  rgb(171, 65, 174); /*purple*/
   text-align: center;
-  color:rgb(145,206,7);/*Green 1*/
+  color:rgb(68, 174, 65); /*green*/
 }
 
 #site-links .menu-item:hover {
-background-color: rgb(145,206,7);/*Green 1*/
-color: rgb(68, 7, 206);/*Blue*/
+background-color: rgb(68, 174, 65); /*green*/
+color: rgb(65, 123, 174); /*blue*/
 text-decoration: overline underline;
-text-decoration-color:  rgb(68, 7, 206);/*Blue*/
+text-decoration-color:  rgb(65, 123, 174); /*blue*/
 text-decoration-style: wavy;
 }
 
@@ -42,18 +47,18 @@ text-decoration-style: wavy;
   display: none;
   position: absolute;
   z-index: 5
-  background-color:  rgb(206,7,47); /*red*/
+  background-color:  rgb(171, 65, 174); /*purple*/
 }
 
 #site-links .dropdown-content a {
-  background-color:  rgb(206,7,47); /*red*/
+  background-color:  rgb(171, 65, 174); /*purple*/
   text-align: center;
-  color:rgb(145,206,7);/*Green 1*/
+  color:rgb(68, 174, 65); /*green*/
 }
 
 #site-links .dropdown-content a:hover {
   display: block;
-  color: rgb(68, 7, 206);/*Blue*/
+  color: rgb(65, 123, 174); /*blue*/
   font-style: italic;
 }
 
@@ -69,7 +74,7 @@ text-decoration-style: wavy;
 }
 
 #site-links .dropdown-item:hover {
-color: rgb(68, 7, 206);/*Blue*/
+color: rgb(65, 123, 174); /*blue*/
 font-style: italic;
 }
 
