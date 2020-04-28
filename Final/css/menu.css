@@ -83,9 +83,14 @@ font-style: italic;
 
 #social .social-item {
   margin: 5px;
-  border: solid;
-  color: rgb(145,206,7);/*Green 1*/
 }
+
+#social img {
+  width:
+  Height:
+  opacity: .5;
+}
+
 #social img:hover {
-  color: rgb(68, 7, 206);/*Blue */
+  opacity: 1;
 }
