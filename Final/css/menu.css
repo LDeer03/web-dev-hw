@@ -76,6 +76,7 @@ text-decoration-style:dashed;
 #site-links .dropdown-item:hover {
 color: rgb(65, 123, 174); /*blue*/
 font-style: italic;
+background-color: rgb(174, 116, 65); /*brown*/
 }
 
 /*social media:*/
@@ -93,9 +94,11 @@ font-style: italic;
 #social img {
   width: 25px;
   Height: 25px;
-  opacity: .5;
+  opacity: .75;
 }
 
 #social img:hover {
+  width: 30px;
+  Height: 30px;
   opacity: 1;
 }
