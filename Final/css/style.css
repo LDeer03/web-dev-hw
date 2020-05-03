@@ -30,7 +30,7 @@ body {
   text-decoration: none;
 }
 
-/*About*/
+/*Main Content*/
 
 .container {
   background-color:rgb(65, 123, 174); /*blue*/
@@ -40,7 +40,9 @@ body {
   height:;
   margin: 50px;
   border: 2px solid rgb(68, 174, 65); /*Green*/
-  align: center;
+  align-content: center;
+  text-align: center;
+  align-items: center;
 
 }
 
@@ -61,7 +63,7 @@ h1 {
 h2 {
   font-family: 'Dancing Script', cursive;
   font-size: 50px;
-  color: rgb(171, 65, 174); /*purple*/
+  color: rgb(68, 174, 65); /*Green*/
   text-align: center;
   text-decoration: none;
 }
