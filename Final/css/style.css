@@ -33,7 +33,7 @@ body {
 .container {
   background-color:rgb(65, 123, 174); /*blue*/
   position: relative;
-  top:380px;
+  top:;
   width:90%;
   height:;
   margin: 50px;
@@ -44,7 +44,7 @@ body {
 
 h1 {
   font-family: 'Great Vibes', cursive;
-  font-size: 75px;
+  font-size: 150px;
   color: rgb(171, 65, 174); /*purple*/
   text-align: center;
 }
@@ -52,7 +52,7 @@ h1 {
 
 h2 {
   font-family: 'Dancing Script', cursive;
-  font-size: 24px;
+  font-size: 75px;
   color: rgb(171, 65, 174); /*purple*/
   text-align: center;
 }
