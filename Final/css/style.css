@@ -31,7 +31,7 @@ body {
 /*About*/
 
 .container {
-  background-color:rgb(65, 123, 174); /*blue*/
+  background-color:rgb(174, 116, 65); /*brown*/
   position: relative;
   top:;
   width:90%;
@@ -44,7 +44,7 @@ body {
 
 h1 {
   font-family: 'Great Vibes', cursive;
-  font-size: 150px;
+  font-size: 125px;
   color: rgb(171, 65, 174); /*purple*/
   text-align: center;
 }
@@ -52,7 +52,26 @@ h1 {
 
 h2 {
   font-family: 'Dancing Script', cursive;
-  font-size: 75px;
+  font-size: 50px;
   color: rgb(171, 65, 174); /*purple*/
   text-align: center;
+}
+
+
+/*Spring-Flowers*/
+
+.Spring-Flowers {
+  background-color: rgb(65, 123, 174); /*blue*/
+  position: relative;
+  top:380px;
+  width:300px;
+  height: 300px;
+  margin: 50px;
+  border: 2px solid rgb(68, 174, 65); /*Green*/
+  float:left;
+
+}
+.Spring-Flowers h3:hover {
+  color: rgb(171, 65, 174); /*purple*/
+  font-style: italic;
 }
