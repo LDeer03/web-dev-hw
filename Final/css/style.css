@@ -28,10 +28,24 @@ body {
   line-height: 2em;
 }
 
+/*About*/
+
+.container {
+  background-color:rgb(65, 123, 174); /*blue*/
+  position: relative;
+  top:380px;
+  width:90%;
+  height:;
+  margin: 50px;
+  border: 2px solid rgb(68, 174, 65); /*Green*/
+  align-content: center;
+
+}
+
 h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 75px;
-  color: rgb(171, 65, 174); purple
+  color: rgb(171, 65, 174); /*purple*/
   text-align: center;
 }
 
@@ -39,6 +53,6 @@ h1 {
 h2 {
   font-family: 'Dancing Script', cursive;
   font-size: 24px;
-  color: rgb(68, 174, 65); green
+  color: rgb(171, 65, 174); /*purple*/
   text-align: center;
 }
