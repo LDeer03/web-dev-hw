@@ -44,7 +44,7 @@ body {
 
 }
 
-.container img {
+.container img: {
   align-items: center;
 }
 
